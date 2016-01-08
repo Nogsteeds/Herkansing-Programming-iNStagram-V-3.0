@@ -1,0 +1,620 @@
+{'namen': {'Lang': "'s-Hertogenbosch", 'Middel': "'s-Hertogenbosch", 'Kort': 'Den Bosch'}, 'locatie': ('51.69048', '5.29362')}
+{'namen': {'Lang': "'s-Hertogenbosch Oost", 'Middel': 'Hertogenbosch O.', 'Kort': "H'bosch O"}, 'locatie': ('51.700553894043', '5.3183331489563')}
+{'namen': {'Lang': "'t Harde", 'Middel': "'t Harde", 'Kort': "'t Harde"}, 'locatie': ('52.4091682', '5.893611')}
+{'namen': {'Lang': 'Aalten', 'Middel': 'Aalten', 'Kort': 'Aalten'}, 'locatie': ('51.9213265245505', '6.57862722873687')}
+{'namen': {'Lang': 'Abcoude', 'Middel': 'Abcoude', 'Kort': 'Abcoude'}, 'locatie': ('52.2785', '4.977')}
+{'namen': {'Lang': 'Ahaus', 'Middel': 'Ahaus', 'Kort': 'Ahaus'}, 'locatie': ('52.079796120944', '7.01635837554931')}
+{'namen': {'Lang': 'Aime-la-Plagne', 'Middel': 'Aime-la-Plagne', 'Kort': 'Aime-la-Pl'}, 'locatie': ('45.55438', '6.64869')}
+{'namen': {'Lang': 'Aix-en-Provence', 'Middel': 'Aix-en-Provence', 'Kort': 'Aix-en-Pro'}, 'locatie': ('43.5228190773429', '5.44531345367431')}
+{'namen': {'Lang': 'Akkrum', 'Middel': 'Akkrum', 'Kort': 'Akkrum'}, 'locatie': ('53.0463905334473', '5.84361124038696')}
+{'namen': {'Lang': 'Albertville', 'Middel': 'Albertville', 'Kort': 'Albertv.'}, 'locatie': ('45.67302', '6.38306')}
+{'namen': {'Lang': 'Alessandria', 'Middel': 'Alessandria', 'Kort': 'Alessandr.'}, 'locatie': ('44.90927', '8.60649')}
+{'namen': {'Lang': 'Alkmaar', 'Middel': 'Alkmaar', 'Kort': 'Alkmaar'}, 'locatie': ('52.6377792358398', '4.73972225189209')}
+{'namen': {'Lang': 'Alkmaar Noord', 'Middel': 'Alkmaar Noord', 'Kort': 'Alkmaar N'}, 'locatie': ('52.6438903808594', '4.76416683197022')}
+{'namen': {'Lang': 'Almelo', 'Middel': 'Almelo', 'Kort': 'Almelo'}, 'locatie': ('52.3580551147461', '6.65388870239258')}
+{'namen': {'Lang': 'Almelo de Riet', 'Middel': 'Almelo de Riet', 'Kort': 'de Riet'}, 'locatie': ('52.3419456481934', '6.66666650772095')}
+{'namen': {'Lang': 'Almere Buiten', 'Middel': 'Almere Buiten', 'Kort': 'Buiten'}, 'locatie': ('52.3941650390625', '5.2780556678772')}
+{'namen': {'Lang': 'Almere Centrum', 'Middel': 'Almere C.', 'Kort': 'Almere C'}, 'locatie': ('52.37503', '5.21764')}
+{'namen': {'Lang': 'Almere Muziekwijk', 'Middel': 'Muziekwijk', 'Kort': 'Muziekwijk'}, 'locatie': ('52.3675003051758', '5.19027757644653')}
+{'namen': {'Lang': 'Almere Oostvaarders', 'Middel': 'Oostvaarders', 'Kort': 'Oostvaard'}, 'locatie': ('52.4033317565918', '5.30055570602417')}
+{'namen': {'Lang': 'Almere Parkwijk', 'Middel': 'Almere Parkwijk', 'Kort': 'Parkwijk'}, 'locatie': ('52.3766670227051', '5.24472236633301')}
+{'namen': {'Lang': 'Almere Poort', 'Middel': 'Almere Poort', 'Kort': 'Almere P'}, 'locatie': ('52.342778', '5.151944')}
+{'namen': {'Lang': 'Alphen a/d Rijn', 'Middel': 'Alphen a/d Rijn', 'Kort': 'Alphen'}, 'locatie': ('52.1244430541992', '4.65777778625488')}
+{'namen': {'Lang': 'Altenberge', 'Middel': 'Altenberge', 'Kort': 'Altenberge'}, 'locatie': ('52.05223', '7.481202')}
+{'namen': {'Lang': 'Amersfoort', 'Middel': 'Amersfoort', 'Kort': 'Amersfoort'}, 'locatie': ('52.1538887023926', '5.37055540084839')}
+{'namen': {'Lang': 'Amersfoort Schothorst', 'Middel': 'Schothorst', 'Kort': 'Schothorst'}, 'locatie': ('52.1748221374512', '5.40388870239258')}
+{'namen': {'Lang': 'Amersfoort Vathorst', 'Middel': 'Vathorst', 'Kort': 'Vathorst'}, 'locatie': ('52.1927795410156', '5.43388891220093')}
+{'namen': {'Lang': 'Amsterdam Amstel', 'Middel': 'Amsterdam Amstel', 'Kort': 'Amstel'}, 'locatie': ('52.3466682434082', '4.91777801513672')}
+{'namen': {'Lang': 'Amsterdam Bijlmer ArenA', 'Middel': 'Bijlmer ArenA', 'Kort': 'Bijlmer A'}, 'locatie': ('52.3122215270996', '4.94694423675537')}
+{'namen': {'Lang': 'Amsterdam Centraal', 'Middel': 'Amsterdam C.', 'Kort': "A'dam C"}, 'locatie': ('52.3788871765137', '4.90027761459351')}
+{'namen': {'Lang': 'Amsterdam Holendrecht', 'Middel': 'Holendrecht', 'Kort': 'Holendrcht'}, 'locatie': ('52.29844', '4.95972')}
+{'namen': {'Lang': 'Amsterdam Lelylaan', 'Middel': 'Lelylaan', 'Kort': 'Lelylaan'}, 'locatie': ('52.3577766418457', '4.83388900756836')}
+{'namen': {'Lang': 'Amsterdam Muiderpoort', 'Middel': 'Muiderpoort', 'Kort': 'Muiderprt'}, 'locatie': ('52.3605537414551', '4.93111133575439')}
+{'namen': {'Lang': 'Amsterdam RAI', 'Middel': 'Amsterdam RAI', 'Kort': "A'dam RAI"}, 'locatie': ('52.3372230529785', '4.89027786254883')}
+{'namen': {'Lang': 'Amsterdam Science Park', 'Middel': 'Science Park', 'Kort': 'Scienceprk'}, 'locatie': ('52.35526', '4.94651')}
+{'namen': {'Lang': 'Amsterdam Sloterdijk', 'Middel': 'Sloterdijk', 'Kort': 'Sloterdijk'}, 'locatie': ('52.3888893127441', '4.83777761459351')}
+{'namen': {'Lang': 'Amsterdam Van der Madeweg', 'Middel': 'Van der Madeweg', 'Kort': 'vd Madeweg'}, 'locatie': ('52.330134', '4.92975')}
+{'namen': {'Lang': 'Amsterdam Zuid', 'Middel': 'Amsterdam Zuid', 'Kort': "A'dam Z"}, 'locatie': ('52.3388900756836', '4.871666431427')}
+{'namen': {'Lang': 'Anna Paulowna', 'Middel': 'Anna Paulowna', 'Kort': 'Anna Paulo'}, 'locatie': ('52.8672218322754', '4.81111097335815')}
+{'namen': {'Lang': 'Antwerpen-Berchem', 'Middel': 'Antw-Berchem', 'Kort': 'Antw-Berch'}, 'locatie': ('51.2001783', '4.4327702')}
+{'namen': {'Lang': 'Antwerpen-Centraal', 'Middel': 'Antwerpen-C.', 'Kort': 'Antwerpen'}, 'locatie': ('51.2161', '4.42122')}
+{'namen': {'Lang': 'Antwerpen-Luchtbal', 'Middel': 'Antw-Luchtbal', 'Kort': 'Antw-Bal'}, 'locatie': ('51.2449375', '4.4251543')}
+{'namen': {'Lang': 'Antwerpen-Noorderdokken', 'Middel': "Antw-N'dokken", 'Kort': 'Antw-dok'}, 'locatie': ('51.261686', '4.4274315')}
+{'namen': {'Lang': 'Antwerpen-Zuid', 'Middel': 'Antwerpen-Zuid', 'Kort': 'Antw-Zuid'}, 'locatie': ('51.19785', '4.39027')}
+{'namen': {'Lang': 'Apeldoorn', 'Middel': 'Apeldoorn', 'Kort': 'Apeldoorn'}, 'locatie': ('52.2091674804687', '5.97027778625488')}
+{'namen': {'Lang': 'Apeldoorn De Maten', 'Middel': 'De Maten', 'Kort': 'De Maten'}, 'locatie': ('52.2052764892578', '6.00055551528931')}
+{'namen': {'Lang': 'Apeldoorn Osseveld', 'Middel': 'Osseveld', 'Kort': 'Osseveld'}, 'locatie': ('52.2152786254883', '6.00444459915161')}
+{'namen': {'Lang': 'Appingedam', 'Middel': 'Appingedam', 'Kort': 'Appingedam'}, 'locatie': ('53.3258135', '6.8619577')}
+{'namen': {'Lang': 'Arkel', 'Middel': 'Arkel', 'Kort': 'Arkel'}, 'locatie': ('51.8719444274902', '4.99277782440186')}
+{'namen': {'Lang': 'Arnemuiden', 'Middel': 'Arnemuiden', 'Kort': 'Arnemuiden'}, 'locatie': ('51.5016670227051', '3.66916656494141')}
+{'namen': {'Lang': 'Arnhem', 'Middel': 'Arnhem', 'Kort': 'Arnhem'}, 'locatie': ('51.9850006103516', '5.89916658401489')}
+{'namen': {'Lang': 'Arnhem Presikhaaf', 'Middel': 'Presikhaaf', 'Kort': 'Presikhaaf'}, 'locatie': ('51.9880561828613', '5.94388866424561')}
+{'namen': {'Lang': 'Arnhem Velperpoort', 'Middel': 'Velperpoort', 'Kort': 'Velperprt'}, 'locatie': ('51.985279083252', '5.91944456100464')}
+{'namen': {'Lang': 'Arnhem Zuid', 'Middel': 'Arnhem Zuid', 'Kort': 'Arnhem Z'}, 'locatie': ('51.9550018310547', '5.85194444656372')}
+{'namen': {'Lang': 'Ashford International', 'Middel': 'Ashford Internat', 'Kort': 'AshfordINT'}, 'locatie': ('51.14371', '0.87612')}
+{'namen': {'Lang': 'Assen', 'Middel': 'Assen', 'Kort': 'Assen'}, 'locatie': ('52.9916648864746', '6.57083320617676')}
+{'namen': {'Lang': 'Augsburg Hbf', 'Middel': 'Augsburg Hbf', 'Kort': 'Augsburg'}, 'locatie': ('48.3654307143927', '10.88547706604')}
+{'namen': {'Lang': 'Avignon TGV', 'Middel': 'Avignon TGV', 'Kort': 'Avignon'}, 'locatie': ('43.92194', '4.78604')}
+{'namen': {'Lang': 'Baarn', 'Middel': 'Baarn', 'Kort': 'Baarn'}, 'locatie': ('52.2083320617676', '5.28083324432373')}
+{'namen': {'Lang': 'Bad Bentheim', 'Middel': 'Bad Bentheim', 'Kort': 'Bentheim'}, 'locatie': ('52.309685595156', '7.15853691101074')}
+{'namen': {'Lang': 'Bad Nieuweschans', 'Middel': 'Bad Nieuweschans', 'Kort': 'Nweschans'}, 'locatie': ('53.1844', '7.19937')}
+{'namen': {'Lang': 'Bad Oeynhausen', 'Middel': 'Bad Oeynhausen', 'Kort': 'Bad Oeynh'}, 'locatie': ('52.205461', '8.796932')}
+{'namen': {'Lang': 'Bad Schandau', 'Middel': 'Bad Schandau', 'Kort': 'Bad Schand'}, 'locatie': ('50.91851', '14.14')}
+{'namen': {'Lang': 'Baden', 'Middel': 'Baden', 'Kort': 'Baden'}, 'locatie': ('47.47638', '8.30772')}
+{'namen': {'Lang': 'Baden-Baden', 'Middel': 'Baden-Baden', 'Kort': 'Baden-B.'}, 'locatie': ('48.790082', '8.190468')}
+{'namen': {'Lang': 'Baflo', 'Middel': 'Baflo', 'Kort': 'Baflo'}, 'locatie': ('53.3608969', '6.5185581')}
+{'namen': {'Lang': 'Barendrecht', 'Middel': 'Barendrecht', 'Kort': 'Barendrcht'}, 'locatie': ('51.8547210693359', '4.5533332824707')}
+{'namen': {'Lang': 'Barneveld Centrum', 'Middel': 'Barneveld C.', 'Kort': 'Barnevld C'}, 'locatie': ('52.1399993896484', '5.59027767181396')}
+{'namen': {'Lang': 'Barneveld Noord', 'Middel': 'Barneveld Noord', 'Kort': 'Barnevld N'}, 'locatie': ('52.1613883972168', '5.59805536270142')}
+{'namen': {'Lang': 'Barneveld Zuid', 'Middel': 'Barneveld Zuid', 'Kort': 'Barnevld Z'}, 'locatie': ('52.128853', '5.60246')}
+{'namen': {'Lang': 'Basel Bad Bf', 'Middel': 'Basel Bad Bf', 'Kort': 'Basel Bad'}, 'locatie': ('47.56815', '7.6073')}
+{'namen': {'Lang': 'Basel SBB', 'Middel': 'Basel SBB', 'Kort': 'Basel SBB'}, 'locatie': ('47.5474', '7.58956')}
+{'namen': {'Lang': 'Bedum', 'Middel': 'Bedum', 'Kort': 'Bedum'}, 'locatie': ('53.3068857', '6.593054')}
+{'namen': {'Lang': 'Beek-Elsloo', 'Middel': 'Beek-Elsloo', 'Kort': 'Beek-E'}, 'locatie': ('50.9474983215332', '5.78666687011719')}
+{'namen': {'Lang': 'Beesd', 'Middel': 'Beesd', 'Kort': 'Beesd'}, 'locatie': ('51.8994445800781', '5.19444465637207')}
+{'namen': {'Lang': 'Beilen', 'Middel': 'Beilen', 'Kort': 'Beilen'}, 'locatie': ('52.8547210693359', '6.52111101150513')}
+{'namen': {'Lang': 'Belsele', 'Middel': 'Belsele', 'Kort': 'Belsele'}, 'locatie': ('51.150833', '4.088332')}
+{'namen': {'Lang': 'Bergen op Zoom', 'Middel': 'Bergen op Zoom', 'Kort': 'Bergen opZ'}, 'locatie': ('51.4938888549805', '4.29611110687256')}
+{'namen': {'Lang': 'Berlin Hbf', 'Middel': 'Berlin Hbf', 'Kort': 'Berlin Hbf'}, 'locatie': ('52.52503', '13.36946')}
+{'namen': {'Lang': 'Berlin Hbf (tief)', 'Middel': 'Berlin Hbf', 'Kort': 'Berlin Hbf'}, 'locatie': ('52.525555', '13.369444')}
+{'namen': {'Lang': 'Berlin Ostbahnhof', 'Middel': 'Berlin Ostbhf', 'Kort': 'Berlin Ost'}, 'locatie': ('52.5104989', '13.4346995')}
+{'namen': {'Lang': 'Berlin Südkreuz', 'Middel': 'Berlin Südkreuz', 'Kort': 'Berlin Süd'}, 'locatie': ('52.47611', '13.365')}
+{'namen': {'Lang': 'Berlin-Schönefeld Flug.', 'Middel': 'Berlin-S Flug.', 'Kort': 'Berlin-Fl.'}, 'locatie': ('52.3915', '13.513')}
+{'namen': {'Lang': 'Berlin-Spandau', 'Middel': 'Berlin-Spandau', 'Kort': 'Berlin-Spa'}, 'locatie': ('52.5343152', '13.1989467')}
+{'namen': {'Lang': 'Best', 'Middel': 'Best', 'Kort': 'Best'}, 'locatie': ('51.5099983215332', '5.38916683197022')}
+{'namen': {'Lang': 'Beveren', 'Middel': 'Beveren', 'Kort': 'Beveren'}, 'locatie': ('51.208056', '4.259444')}
+{'namen': {'Lang': 'Beverwijk', 'Middel': 'Beverwijk', 'Kort': 'Beverwijk'}, 'locatie': ('52.4783325195313', '4.65666675567627')}
+{'namen': {'Lang': 'Bielefeld Hbf', 'Middel': 'Bielefeld Hbf', 'Kort': 'Bielefeld'}, 'locatie': ('52.029261', '8.532722')}
+{'namen': {'Lang': 'Bilthoven', 'Middel': 'Bilthoven', 'Kort': 'Bilthoven'}, 'locatie': ('52.1300010681152', '5.20388889312744')}
+{'namen': {'Lang': 'Bilzen', 'Middel': 'Bilzen', 'Kort': 'Bilzen'}, 'locatie': ('50.868333', '5.509167')}
+{'namen': {'Lang': 'Bischofshofen', 'Middel': 'Bischofshofen', 'Kort': 'Bischofsh.'}, 'locatie': ('47.41748', '13.21991')}
+{'namen': {'Lang': 'Blerick', 'Middel': 'Blerick', 'Kort': 'Blerick'}, 'locatie': ('51.372501373291', '6.15500020980835')}
+{'namen': {'Lang': 'Bloemendaal', 'Middel': 'Bloemendaal', 'Kort': 'Bloemendl'}, 'locatie': ('52.404167175293', '4.62750005722046')}
+{'namen': {'Lang': 'Bludenz', 'Middel': 'Bludenz', 'Kort': 'Bludenz'}, 'locatie': ('47.15473', '9.81456')}
+{'namen': {'Lang': 'Bodegraven', 'Middel': 'Bodegraven', 'Kort': 'Bodegraven'}, 'locatie': ('52.0813903808594', '4.7461109161377')}
+{'namen': {'Lang': 'Boisheim', 'Middel': 'Boisheim', 'Kort': 'Boisheim'}, 'locatie': ('51.274323', '6.274591')}
+{'namen': {'Lang': 'Bonn Hbf', 'Middel': 'Bonn Hbf', 'Kort': 'Bonn Hbf'}, 'locatie': ('50.7320141646745', '7.09712505340576')}
+{'namen': {'Lang': 'Boom', 'Middel': 'Boom', 'Kort': 'Boom'}, 'locatie': ('51.09063', '4.36057')}
+{'namen': {'Lang': 'Bork', 'Middel': 'Bork', 'Kort': 'Bork'}, 'locatie': ('51.66988', '7.45664')}
+{'namen': {'Lang': 'Borne', 'Middel': 'Borne', 'Kort': 'Borne'}, 'locatie': ('52.2988891601562', '6.74805545806885')}
+{'namen': {'Lang': 'Boskoop', 'Middel': 'Boskoop', 'Kort': 'Boskoop'}, 'locatie': ('52.0777778625488', '4.64694452285767')}
+{'namen': {'Lang': 'Bourg-St-Maurice', 'Middel': 'Bourg-St-Maurice', 'Kort': 'Bourg-StM'}, 'locatie': ('45.61918', '6.77167')}
+{'namen': {'Lang': 'Boven-Hardinxveld', 'Middel': 'Boven-Hardinxv.', 'Kort': 'Boven-H.'}, 'locatie': ('51.832222', '4.878056')}
+{'namen': {'Lang': 'Bovenkarspel Flora', 'Middel': 'Bovenkarspel Fl.', 'Kort': 'Bovenk Flo'}, 'locatie': ('52.6961097717285', '5.25277757644653')}
+{'namen': {'Lang': 'Bovenkarspel-Grootebroek', 'Middel': 'Bovenkarspel-Gr.', 'Kort': 'Bovenk-Gr'}, 'locatie': ('52.6949996948242', '5.23777770996094')}
+{'namen': {'Lang': 'Boxmeer', 'Middel': 'Boxmeer', 'Kort': 'Boxmeer'}, 'locatie': ('51.6445217676531', '5.93903303146362')}
+{'namen': {'Lang': 'Boxtel', 'Middel': 'Boxtel', 'Kort': 'Boxtel'}, 'locatie': ('51.58433', '5.31912')}
+{'namen': {'Lang': 'Braunschweig Hbf', 'Middel': 'Braunschweig Hbf', 'Kort': 'Braunschw'}, 'locatie': ('52.25224', '10.53971')}
+{'namen': {'Lang': 'Breda', 'Middel': 'Breda', 'Kort': 'Breda'}, 'locatie': ('51.5955543518066', '4.78000020980835')}
+{'namen': {'Lang': 'Breda-Prinsenbeek', 'Middel': 'Prinsenbeek', 'Kort': 'Prinsenbk'}, 'locatie': ('51.606388092041', '4.72083330154419')}
+{'namen': {'Lang': 'Bressoux', 'Middel': 'Bressoux', 'Kort': 'Bressoux'}, 'locatie': ('50.643829', '5.6112542')}
+{'namen': {'Lang': 'Breukelen', 'Middel': 'Breukelen', 'Kort': 'Breukelen'}, 'locatie': ('52.17149', '4.9906')}
+{'namen': {'Lang': 'Breyell', 'Middel': 'Breyell', 'Kort': 'Breyell'}, 'locatie': ('51.294615', '6.241174')}
+{'namen': {'Lang': 'Brummen', 'Middel': 'Brummen', 'Kort': 'Brummen'}, 'locatie': ('52.0911102294922', '6.14694452285767')}
+{'namen': {'Lang': 'Brussel Nat. Luchthaven', 'Middel': 'Brussel Luchthvn', 'Kort': 'Brus Lucht'}, 'locatie': ('50.896389', '4.481943')}
+{'namen': {'Lang': 'Brussel-Centraal', 'Middel': 'Brussel-C.', 'Kort': 'Brussel-C'}, 'locatie': ('50.8454658', '4.3571135')}
+{'namen': {'Lang': 'Brussel-Noord', 'Middel': 'Brussel-Noord', 'Kort': 'Brussel-N'}, 'locatie': ('50.8605262', '4.3617873')}
+{'namen': {'Lang': 'Brussel-Zuid/Midi', 'Middel': 'Brussel Z./Midi', 'Kort': 'Brussel-Z'}, 'locatie': ('50.8350108', '4.3345957')}
+{'namen': {'Lang': 'Buitenpost', 'Middel': 'Buitenpost', 'Kort': 'Buitenpost'}, 'locatie': ('53.2564547', '6.1446496')}
+{'namen': {'Lang': 'Bunde', 'Middel': 'Bunde', 'Kort': 'Bunde'}, 'locatie': ('50.8969459533691', '5.73666667938232')}
+{'namen': {'Lang': 'Bunnik', 'Middel': 'Bunnik', 'Kort': 'Bunnik'}, 'locatie': ('52.0630569458008', '5.19444465637207')}
+{'namen': {'Lang': 'Bussum Zuid', 'Middel': 'Bussum Zuid', 'Kort': 'Bussum Z'}, 'locatie': ('52.2658348083496', '5.16305541992188')}
+{'namen': {'Lang': 'Bönen', 'Middel': 'Bönen', 'Kort': 'Bönen'}, 'locatie': ('51.598015', '7.757296')}
+{'namen': {'Lang': 'Bünde (Westf)', 'Middel': 'Bünde (Westf)', 'Kort': 'Bünde (W)'}, 'locatie': ('52.202075', '8.573876')}
+{'namen': {'Lang': 'Capelle Schollevaar', 'Middel': 'Schollevaar', 'Kort': 'Schollevr'}, 'locatie': ('51.9541664123535', '4.58416652679443')}
+{'namen': {'Lang': 'Castricum', 'Middel': 'Castricum', 'Kort': 'Castricum'}, 'locatie': ('52.5458335876465', '4.65861129760742')}
+{'namen': {'Lang': 'Chambéry', 'Middel': 'Chambéry', 'Kort': 'Chambéry'}, 'locatie': ('45.57127', '5.91953')}
+{'namen': {'Lang': 'Chevremont', 'Middel': 'Chevremont', 'Kort': 'Chevremont'}, 'locatie': ('50.8761100769043', '6.05972242355347')}
+{'namen': {'Lang': 'Chur', 'Middel': 'Chur', 'Kort': 'Chur'}, 'locatie': ('46.853333', '9.528333')}
+{'namen': {'Lang': 'Coesfeld (Westf)', 'Middel': 'Coesfeld (Westf)', 'Kort': 'Coesfeld'}, 'locatie': ('51.939', '7.1642')}
+{'namen': {'Lang': 'Coevorden', 'Middel': 'Coevorden', 'Kort': 'Coevorden'}, 'locatie': ('52.6636123657227', '6.73555564880371')}
+{'namen': {'Lang': 'Como', 'Middel': 'Como', 'Kort': 'Como'}, 'locatie': ('45.80936', '9.07325')}
+{'namen': {'Lang': 'Cuijk', 'Middel': 'Cuijk', 'Kort': 'Cuijk'}, 'locatie': ('51.7266825879048', '5.87429523468017')}
+{'namen': {'Lang': 'Culemborg', 'Middel': 'Culemborg', 'Kort': 'Culemborg'}, 'locatie': ('51.9466667175293', '5.22694444656372')}
+{'namen': {'Lang': 'Daarlerveen', 'Middel': 'Daarlerveen', 'Kort': 'Daarlervn'}, 'locatie': ('52.4407702', '6.5759947')}
+{'namen': {'Lang': 'Dalen', 'Middel': 'Dalen', 'Kort': 'Dalen'}, 'locatie': ('52.6941680908203', '6.75805568695068')}
+{'namen': {'Lang': 'Dalfsen', 'Middel': 'Dalfsen', 'Kort': 'Dalfsen'}, 'locatie': ('52.4983329772949', '6.25861120223999')}
+{'namen': {'Lang': 'De Vink', 'Middel': 'De Vink', 'Kort': 'De Vink'}, 'locatie': ('52.1472206115723', '4.4563889503479')}
+{'namen': {'Lang': 'De Westereen', 'Middel': 'De Westereen', 'Kort': 'Westereen'}, 'locatie': ('53.24817', '6.03463')}
+{'namen': {'Lang': 'Decin hl.n.', 'Middel': 'Decin hl.n.', 'Kort': 'Decin hl.n'}, 'locatie': ('50.77342', '14.20125')}
+{'namen': {'Lang': 'Deinum', 'Middel': 'Deinum', 'Kort': 'Deinum'}, 'locatie': ('53.1888115', '5.7281572')}
+{'namen': {'Lang': 'Delden', 'Middel': 'Delden', 'Kort': 'Delden'}, 'locatie': ('52.2599983215332', '6.7161111831665')}
+{'namen': {'Lang': 'Delft', 'Middel': 'Delft', 'Kort': 'Delft'}, 'locatie': ('52.0066680908203', '4.35638904571533')}
+{'namen': {'Lang': 'Delft Zuid', 'Middel': 'Delft Zuid', 'Kort': 'Delft Z'}, 'locatie': ('51.9908332824707', '4.36472225189209')}
+{'namen': {'Lang': 'Delfzijl', 'Middel': 'Delfzijl', 'Kort': 'Delfzijl'}, 'locatie': ('53.3336625', '6.9240797')}
+{'namen': {'Lang': 'Delfzijl West', 'Middel': 'Delfzijl West', 'Kort': 'Delfzijl W'}, 'locatie': ('53.3320834', '6.9069092')}
+{'namen': {'Lang': 'Den Dolder', 'Middel': 'Den Dolder', 'Kort': 'Den Dolder'}, 'locatie': ('52.1402778625488', '5.24277782440186')}
+{'namen': {'Lang': 'Den Haag Centraal', 'Middel': 'Den Haag C.', 'Kort': 'Den Haag C'}, 'locatie': ('52.0802764892578', '4.32499980926514')}
+{'namen': {'Lang': 'Den Haag HS', 'Middel': 'Den Haag HS', 'Kort': 'Dn Haag HS'}, 'locatie': ('52.0697212219238', '4.32250022888184')}
+{'namen': {'Lang': 'Den Haag Laan v NOI', 'Middel': 'Laan v NOI', 'Kort': 'Laan v NOI'}, 'locatie': ('52.0786094665527', '4.34277772903442')}
+{'namen': {'Lang': 'Den Haag Mariahoeve', 'Middel': 'Mariahoeve', 'Kort': 'Mariahoeve'}, 'locatie': ('52.0905570983887', '4.36944437026978')}
+{'namen': {'Lang': 'Den Haag Moerwijk', 'Middel': 'Moerwijk', 'Kort': 'Moerwijk'}, 'locatie': ('52.0538902282715', '4.3086109161377')}
+{'namen': {'Lang': 'Den Haag Ypenburg', 'Middel': 'Ypenburg', 'Kort': 'Ypenburg'}, 'locatie': ('52.0552787780762', '4.39222240447998')}
+{'namen': {'Lang': 'Den Helder', 'Middel': 'Den Helder', 'Kort': 'Den Helder'}, 'locatie': ('52.9552764892578', '4.76111125946045')}
+{'namen': {'Lang': 'Den Helder Zuid', 'Middel': 'Den Helder Zuid', 'Kort': 'Dn Heldr Z'}, 'locatie': ('52.9324989318848', '4.76416683197022')}
+{'namen': {'Lang': 'Deurne', 'Middel': 'Deurne', 'Kort': 'Deurne'}, 'locatie': ('51.4558334350586', '5.78888893127441')}
+{'namen': {'Lang': 'Deventer', 'Middel': 'Deventer', 'Kort': 'Deventer'}, 'locatie': ('52.2574996948242', '6.16055536270142')}
+{'namen': {'Lang': 'Deventer Colmschate', 'Middel': 'Colmschate', 'Kort': 'Colmschate'}, 'locatie': ('52.2502784729004', '6.21444463729858')}
+{'namen': {'Lang': 'Didam', 'Middel': 'Didam', 'Kort': 'Didam'}, 'locatie': ('51.933502', '6.1324106')}
+{'namen': {'Lang': 'Diemen', 'Middel': 'Diemen', 'Kort': 'Diemen'}, 'locatie': ('52.345832824707', '4.9655556678772')}
+{'namen': {'Lang': 'Diemen Zuid', 'Middel': 'Diemen Zuid', 'Kort': 'Diemen Z'}, 'locatie': ('52.3302764892578', '4.95583343505859')}
+{'namen': {'Lang': 'Diepenbeek', 'Middel': 'Diepenbeek', 'Kort': 'Diepenbeek'}, 'locatie': ('50.910278', '5.419722')}
+{'namen': {'Lang': 'Dieren', 'Middel': 'Dieren', 'Kort': 'Dieren'}, 'locatie': ('52.0449981689453', '6.10305547714233')}
+{'namen': {'Lang': 'Doetinchem', 'Middel': 'Doetinchem', 'Kort': 'Doetinchem'}, 'locatie': ('51.9585962', '6.2962148')}
+{'namen': {'Lang': 'Doetinchem De Huet', 'Middel': 'De Huet', 'Kort': 'De Huet'}, 'locatie': ('51.9591413', '6.2598521')}
+{'namen': {'Lang': 'Domodossola', 'Middel': 'Domodossola', 'Kort': 'Domodosso.'}, 'locatie': ('46.11529', '8.29624')}
+{'namen': {'Lang': 'Dordrecht', 'Middel': 'Dordrecht', 'Kort': 'Dordrecht'}, 'locatie': ('51.8072204589844', '4.66833353042603')}
+{'namen': {'Lang': 'Dordrecht Stadspolders', 'Middel': 'Stadspolders', 'Kort': 'Stadspldrs'}, 'locatie': ('51.801944732666', '4.71666669845581')}
+{'namen': {'Lang': 'Dordrecht Zuid', 'Middel': 'Dordrecht Zuid', 'Kort': 'Dordrcht Z'}, 'locatie': ('51.7900009155273', '4.67138910293579')}
+{'namen': {'Lang': 'Dortmund Derne', 'Middel': 'Dortmund Derne', 'Kort': 'Dortmund D'}, 'locatie': ('51.56754', '7.52855')}
+{'namen': {'Lang': 'Dortmund Hbf', 'Middel': 'Dortmund Hbf', 'Kort': 'Dortmund'}, 'locatie': ('51.517896', '7.45929')}
+{'namen': {'Lang': 'Dortmund Kirchderne', 'Middel': 'Dortmund Kirchd.', 'Kort': 'Dortmund K'}, 'locatie': ('51.547076', '7.510099')}
+{'namen': {'Lang': 'Dresden Hbf', 'Middel': 'Dresden Hbf', 'Kort': 'Dresden H.'}, 'locatie': ('51.04056', '13.73203')}
+{'namen': {'Lang': 'Dresden-Neustadt', 'Middel': 'Dresden-Neustadt', 'Kort': 'Dresden-N'}, 'locatie': ('51.06581', '13.741')}
+{'namen': {'Lang': 'Driebergen-Zeist', 'Middel': 'Driebergen-Zeist', 'Kort': 'Driebergen'}, 'locatie': ('52.0652770996094', '5.25861120223999')}
+{'namen': {'Lang': 'Driehuis', 'Middel': 'Driehuis', 'Kort': 'Driehuis'}, 'locatie': ('52.4425010681152', '4.63805532455444')}
+{'namen': {'Lang': 'Dronryp', 'Middel': 'Dronryp', 'Kort': 'Dronryp'}, 'locatie': ('53.1778086', '5.6347411')}
+{'namen': {'Lang': 'Dronten', 'Middel': 'Dronten', 'Kort': 'Dronten'}, 'locatie': ('52.5344', '5.72089')}
+{'namen': {'Lang': 'Duffel', 'Middel': 'Duffel', 'Kort': 'Duffel'}, 'locatie': ('51.091389', '4.493056')}
+{'namen': {'Lang': 'Duisburg Hbf', 'Middel': 'Duisburg Hbf', 'Kort': 'Duisburg'}, 'locatie': ('51.4297785713316', '6.77590370178222')}
+{'namen': {'Lang': 'Duiven', 'Middel': 'Duiven', 'Kort': 'Duiven'}, 'locatie': ('51.9433326721191', '6.01472234725952')}
+{'namen': {'Lang': 'Duivendrecht', 'Middel': 'Duivendrecht', 'Kort': 'Duivendt'}, 'locatie': ('52.3233337402344', '4.93638896942139')}
+{'namen': {'Lang': 'Dülken', 'Middel': 'Dülken', 'Kort': 'Dülken'}, 'locatie': ('51.257149', '6.33793')}
+{'namen': {'Lang': 'Dülmen', 'Middel': 'Dülmen', 'Kort': 'Dülmen'}, 'locatie': ('51.827927', '7.295756')}
+{'namen': {'Lang': 'Düsseldorf Hbf', 'Middel': 'Düsseldorf Hbf', 'Kort': 'Düsseldrf'}, 'locatie': ('51.220146', '6.793137')}
+{'namen': {'Lang': 'Ebbsfleet International', 'Middel': 'Ebbsfleet Intern', 'Kort': 'Ebbsfleet'}, 'locatie': ('51.44297', '0.32095')}
+{'namen': {'Lang': 'Echt', 'Middel': 'Echt', 'Kort': 'Echt'}, 'locatie': ('51.1005554199219', '5.87888908386231')}
+{'namen': {'Lang': 'Ede Centrum', 'Middel': 'Ede C.', 'Kort': 'Ede C'}, 'locatie': ('52.0436096191406', '5.66833353042603')}
+{'namen': {'Lang': 'Ede-Wageningen', 'Middel': 'Ede-Wageningen', 'Kort': 'Ede-Wag'}, 'locatie': ('52.0277786254883', '5.67305564880371')}
+{'namen': {'Lang': 'Eijs-Wittem', 'Middel': 'Eijs-Wittem', 'Kort': 'Eijs-Witt'}, 'locatie': ('50.82317', '5.92479')}
+{'namen': {'Lang': 'Eijsden', 'Middel': 'Eijsden', 'Kort': 'Eijsden'}, 'locatie': ('50.7719459533691', '5.71000003814697')}
+{'namen': {'Lang': 'Eindhoven', 'Middel': 'Eindhoven', 'Kort': 'Eindhoven'}, 'locatie': ('51.4433326721191', '5.48138904571533')}
+{'namen': {'Lang': 'Eindhoven Strijp-S', 'Middel': 'Strijp-S', 'Kort': 'Strijp-S'}, 'locatie': ('51.4511108398438', '5.45583343505859')}
+{'namen': {'Lang': 'Ekeren', 'Middel': 'Ekeren', 'Kort': 'Ekeren'}, 'locatie': ('51.2816099', '4.4341227')}
+{'namen': {'Lang': 'Elst', 'Middel': 'Elst', 'Kort': 'Elst'}, 'locatie': ('51.9169425964355', '5.85500001907349')}
+{'namen': {'Lang': 'Emmen', 'Middel': 'Emmen', 'Kort': 'Emmen'}, 'locatie': ('52.7900009155273', '6.89944458007812')}
+{'namen': {'Lang': 'Emmen Zuid', 'Middel': 'Emmen Zuid', 'Kort': 'Emmen Z'}, 'locatie': ('52.7488663746914', '6.87478065490722')}
+{'namen': {'Lang': 'Emmerich', 'Middel': 'Emmerich', 'Kort': 'Emmerich'}, 'locatie': ('51.834283', '6.255718')}
+{'namen': {'Lang': 'Enkhuizen', 'Middel': 'Enkhuizen', 'Kort': 'Enkhuizen'}, 'locatie': ('52.6991653442383', '5.28638887405396')}
+{'namen': {'Lang': 'Ennepetal (Gevelsberg)', 'Middel': 'Ennepetal', 'Kort': 'Ennepetal'}, 'locatie': ('51.304892', '7.343285')}
+{'namen': {'Lang': 'Enschede', 'Middel': 'Enschede', 'Kort': 'Enschede'}, 'locatie': ('52.2224998474121', '6.8899998664856')}
+{'namen': {'Lang': 'Enschede De Eschmarke', 'Middel': 'De Eschmarke', 'Kort': 'Eschmarke'}, 'locatie': ('52.2213897705078', '6.95111131668091')}
+{'namen': {'Lang': 'Enschede Kennispark', 'Middel': 'Kennispark', 'Kort': 'Kennispark'}, 'locatie': ('52.2374992370605', '6.83888912200928')}
+{'namen': {'Lang': 'Epe (Westf)', 'Middel': 'Epe (Westf)', 'Kort': 'Epe (West)'}, 'locatie': ('52.18346', '7.03009')}
+{'namen': {'Lang': 'Ermelo', 'Middel': 'Ermelo', 'Kort': 'Ermelo'}, 'locatie': ('52.3016662597656', '5.61472225189209')}
+{'namen': {'Lang': 'Essen (Belgie)', 'Middel': 'Essen (Belgie)', 'Kort': 'Essen (B)'}, 'locatie': ('51.46261', '4.45129')}
+{'namen': {'Lang': 'Etten-Leur', 'Middel': 'Etten-Leur', 'Kort': 'Etten-Leur'}, 'locatie': ('51.5750007629395', '4.63583326339722')}
+{'namen': {'Lang': 'Eygelshoven', 'Middel': 'Eygelshoven', 'Kort': 'Eygelshov'}, 'locatie': ('50.8905563354492', '6.04500007629395')}
+{'namen': {'Lang': 'Eygelshoven Markt', 'Middel': 'Eygelshoven Mrkt', 'Kort': 'Eygelsh M'}, 'locatie': ('50.8960498196442', '6.0602474212646396')}
+{'namen': {'Lang': 'Feanwalden', 'Middel': 'Feanwalden', 'Kort': 'Feanwalden'}, 'locatie': ('53.2351834', '5.9886615')}
+{'namen': {'Lang': 'Fieberbrunn', 'Middel': 'Fieberbrunn', 'Kort': 'Fieberbrun'}, 'locatie': ('47.49111', '12.528')}
+{'namen': {'Lang': 'Franeker', 'Middel': 'Franeker', 'Kort': 'Franeker'}, 'locatie': ('53.1824488', '5.5483094')}
+{'namen': {'Lang': 'Frankfurt (M) Hbf', 'Middel': 'Frankfurt Hbf', 'Kort': 'Frankfurt'}, 'locatie': ('50.1071222', '8.6638338')}
+{'namen': {'Lang': 'Frankfurt (Oder)', 'Middel': 'Frankfurt (Oder)', 'Kort': 'Frankf(Od)'}, 'locatie': ('52.336163', '14.546509')}
+{'namen': {'Lang': 'Frankfurt Flughafen Fernb', 'Middel': 'Frankfurt Flugh.', 'Kort': 'FrankfurtF'}, 'locatie': ('50.0531710299286', '8.570237159729')}
+{'namen': {'Lang': 'Freiburg (Breisgau) Hbf', 'Middel': 'Freiburg (B.)', 'Kort': 'Freiburg'}, 'locatie': ('47.99789', '7.84134')}
+{'namen': {'Lang': 'Gaanderen', 'Middel': 'Gaanderen', 'Kort': 'Gaanderen'}, 'locatie': ('51.93074', '6.3486')}
+{'namen': {'Lang': 'Geerdijk', 'Middel': 'Geerdijk', 'Kort': 'Geerdijk'}, 'locatie': ('52.47625', '6.56674')}
+{'namen': {'Lang': 'Geislingen', 'Middel': 'Geislingen', 'Kort': 'Geislingen'}, 'locatie': ('48.6194774237368', '9.84184026718139')}
+{'namen': {'Lang': 'Geldermalsen', 'Middel': 'Geldermalsen', 'Kort': "G'malsen"}, 'locatie': ('51.88301', '5.27127')}
+{'namen': {'Lang': 'Geldrop', 'Middel': 'Geldrop', 'Kort': 'Geldrop'}, 'locatie': ('51.4197235107422', '5.55055570602417')}
+{'namen': {'Lang': 'Geleen Oost', 'Middel': 'Geleen Oost', 'Kort': 'Geleen O'}, 'locatie': ('50.9669456481934', '5.84305572509766')}
+{'namen': {'Lang': 'Geleen-Lutterade', 'Middel': 'Geleen-Lutterade', 'Kort': 'Geleen-Lut'}, 'locatie': ('50.9755554199219', '5.82472229003906')}
+{'namen': {'Lang': 'Gilze-Rijen', 'Middel': 'Gilze-Rijen', 'Kort': 'Gilze-Rij'}, 'locatie': ('51.583610534668', '4.92611122131348')}
+{'namen': {'Lang': 'Glanerbrug', 'Middel': 'Glanerbrug', 'Kort': 'Glanerbrug'}, 'locatie': ('52.2186126708984', '6.97444438934326')}
+{'namen': {'Lang': 'Glons', 'Middel': 'Glons', 'Kort': 'Glons'}, 'locatie': ('50.750277', '5.535278')}
+{'namen': {'Lang': 'Goes', 'Middel': 'Goes', 'Kort': 'Goes'}, 'locatie': ('51.4980545043945', '3.89055562019348')}
+{'namen': {'Lang': 'Goor', 'Middel': 'Goor', 'Kort': 'Goor'}, 'locatie': ('52.2302780151367', '6.58444452285767')}
+{'namen': {'Lang': 'Gorinchem', 'Middel': 'Gorinchem', 'Kort': 'Gorinchem'}, 'locatie': ('51.8338890075684', '4.96833324432373')}
+{'namen': {'Lang': 'Gouda', 'Middel': 'Gouda', 'Kort': 'Gouda'}, 'locatie': ('52.0175018310547', '4.70444440841675')}
+{'namen': {'Lang': 'Gouda Goverwelle', 'Middel': 'Gouda Goverwelle', 'Kort': 'Goverwelle'}, 'locatie': ('52.0149993896484', '4.7408332824707')}
+{'namen': {'Lang': 'Gramsbergen', 'Middel': 'Gramsbergen', 'Kort': 'Gramsbergn'}, 'locatie': ('52.6091651916504', '6.67583322525024')}
+{'namen': {'Lang': 'Grijpskerk', 'Middel': 'Grijpskerk', 'Kort': 'Grijpskerk'}, 'locatie': ('53.2557403255735', '6.30977869033813')}
+{'namen': {'Lang': 'Gronau (Westf.)', 'Middel': 'Gronau (Westf.)', 'Kort': 'Gronau'}, 'locatie': ('52.21521', '7.022109')}
+{'namen': {'Lang': 'Groningen', 'Middel': 'Groningen', 'Kort': 'Groningen'}, 'locatie': ('53.2105560302734', '6.56472206115723')}
+{'namen': {'Lang': 'Groningen Europapark', 'Middel': 'Europapark', 'Kort': 'Europapark'}, 'locatie': ('53.20480027', '6.5854178')}
+{'namen': {'Lang': 'Groningen Noord', 'Middel': 'Groningen Noord', 'Kort': 'Groning N'}, 'locatie': ('53.2301469', '6.5563172')}
+{'namen': {'Lang': 'Grou-Jirnsum', 'Middel': 'Grou-Jirnsum', 'Kort': 'Grou-Jirns'}, 'locatie': ('53.0888900756836', '5.82250022888184')}
+{'namen': {'Lang': 'Gulpen-Wijlre', 'Middel': 'Gulpen-Wijlre', 'Kort': 'Gulpen-W'}, 'locatie': ('50.833056', '5.898056')}
+{'namen': {'Lang': 'Göppingen', 'Middel': 'Göppingen', 'Kort': 'Göppingen'}, 'locatie': ('48.700191', '9.651685')}
+{'namen': {'Lang': 'Günzburg', 'Middel': 'Günzburg', 'Kort': 'Günzburg'}, 'locatie': ('48.460226', '10.278707')}
+{'namen': {'Lang': 'Haarlem', 'Middel': 'Haarlem', 'Kort': 'Haarlem'}, 'locatie': ('52.3877792358398', '4.63833332061768')}
+{'namen': {'Lang': 'Haarlem Spaarnwoude', 'Middel': 'Spaarnwoude', 'Kort': 'Spaarnwde'}, 'locatie': ('52.3827781677246', '4.67305564880371')}
+{'namen': {'Lang': 'Hagen Hbf', 'Middel': 'Hagen Hbf', 'Kort': 'Hagen'}, 'locatie': ('51.362747', '7.460249')}
+{'namen': {'Lang': 'Halfweg-Zwanenburg', 'Middel': 'Halfweg-Zwanenb.', 'Kort': 'Halfweg-Zw'}, 'locatie': ('52.385935', '4.747165')}
+{'namen': {'Lang': 'Hamburg Hbf', 'Middel': 'Hamburg Hbf', 'Kort': 'Hamburg H'}, 'locatie': ('53.5526394', '10.0067103')}
+{'namen': {'Lang': 'Hamm (Westf.)', 'Middel': 'Hamm (Westf.)', 'Kort': 'Hamm'}, 'locatie': ('51.678078', '7.807821')}
+{'namen': {'Lang': 'Hannover Hbf', 'Middel': 'Hannover Hbf', 'Kort': 'Hannover H'}, 'locatie': ('52.3770401', '9.7416759')}
+{'namen': {'Lang': 'Hardenberg', 'Middel': 'Hardenberg', 'Kort': 'Hardenberg'}, 'locatie': ('52.5727767944336', '6.62861108779907')}
+{'namen': {'Lang': 'Harderwijk', 'Middel': 'Harderwijk', 'Kort': 'Harderwijk'}, 'locatie': ('52.3375015258789', '5.61972236633301')}
+{'namen': {'Lang': 'Hardinxveld Blauwe Zoom', 'Middel': 'Blauwe Zoom', 'Kort': 'Blauwe Z'}, 'locatie': ('51.82944', '4.81556')}
+{'namen': {'Lang': 'Hardinxveld-Giessendam', 'Middel': 'Hardinxveld-G.', 'Kort': 'Hardinxvld'}, 'locatie': ('51.8305549621582', '4.83583354949951')}
+{'namen': {'Lang': 'Haren', 'Middel': 'Haren', 'Kort': 'Haren'}, 'locatie': ('53.1761093139648', '6.61722230911255')}
+{'namen': {'Lang': 'Harlingen', 'Middel': 'Harlingen', 'Kort': 'Harlingen'}, 'locatie': ('53.1704205', '5.4251932')}
+{'namen': {'Lang': 'Harlingen Haven', 'Middel': 'Harlingen Haven', 'Kort': 'Harl Haven'}, 'locatie': ('53.174917', '5.4112885')}
+{'namen': {'Lang': 'Hasselt', 'Middel': 'Hasselt', 'Kort': 'Hasselt'}, 'locatie': ('50.930555', '5.3275')}
+{'namen': {'Lang': 'Heemskerk', 'Middel': 'Heemskerk', 'Kort': 'Heemskerk'}, 'locatie': ('52.4952774047852', '4.68694448471069')}
+{'namen': {'Lang': 'Heemstede-Aerdenhout', 'Middel': 'Heemstede-A.', 'Kort': 'Heemstede'}, 'locatie': ('52.3591651916504', '4.60666656494141')}
+{'namen': {'Lang': 'Heerenveen', 'Middel': 'Heerenveen', 'Kort': 'Heerenveen'}, 'locatie': ('52.9613876342773', '5.91416645050049')}
+{'namen': {'Lang': 'Heerenveen IJsstadion', 'Middel': 'IJsstadion', 'Kort': "H'veen IJs"}, 'locatie': ('52.9352760314941', '5.94388866424561')}
+{'namen': {'Lang': 'Heerhugowaard', 'Middel': 'Heerhugowaard', 'Kort': 'Heerhugow'}, 'locatie': ('52.6697235107422', '4.82277774810791')}
+{'namen': {'Lang': 'Heerlen', 'Middel': 'Heerlen', 'Kort': 'Heerlen'}, 'locatie': ('50.8908348083496', '5.97499990463257')}
+{'namen': {'Lang': 'Heerlen De Kissel', 'Middel': 'Hrl De Kissel', 'Kort': 'De Kissel'}, 'locatie': ('50.8901689328708', '5.99334239959716')}
+{'namen': {'Lang': 'Heerlen Woonboulevard', 'Middel': 'Hrl Woonblvd', 'Kort': 'Heerlen W'}, 'locatie': ('50.896667', '5.952222')}
+{'namen': {'Lang': 'Heeze', 'Middel': 'Heeze', 'Kort': 'Heeze'}, 'locatie': ('51.3849983215332', '5.56944465637207')}
+{'namen': {'Lang': 'Heide', 'Middel': 'Heide', 'Kort': 'Heide'}, 'locatie': ('51.364828', '4.4604308')}
+{'namen': {'Lang': 'Heiloo', 'Middel': 'Heiloo', 'Kort': 'Heiloo'}, 'locatie': ('52.5994453430176', '4.70055532455444')}
+{'namen': {'Lang': 'Heino', 'Middel': 'Heino', 'Kort': 'Heino'}, 'locatie': ('52.4272232055664', '6.22111129760742')}
+{'namen': {'Lang': 'Helmond', 'Middel': 'Helmond', 'Kort': 'Helmond'}, 'locatie': ('51.4755554199219', '5.66194438934326')}
+{'namen': {'Lang': "Helmond 't Hout", 'Middel': "Helmond 't Hout", 'Kort': "'t Hout"}, 'locatie': ('51.46794', '5.63085')}
+{'namen': {'Lang': 'Helmond Brandevoort', 'Middel': 'Brandevoort', 'Kort': 'Brandevrt'}, 'locatie': ('51.4622230529785', '5.60722208023071')}
+{'namen': {'Lang': 'Helmond Brouwhuis', 'Middel': 'Brouwhuis', 'Kort': 'Brouwhuis'}, 'locatie': ('51.47068', '5.70177')}
+{'namen': {'Lang': 'Hemiksem', 'Middel': 'Hemiksem', 'Kort': 'Hemiksem'}, 'locatie': ('51.13624', '4.33828')}
+{'namen': {'Lang': 'Hemmen-Dodewaard', 'Middel': 'Hemmen-Dodewaard', 'Kort': 'Hemmen-D'}, 'locatie': ('51.9222129', '5.6737254')}
+{'namen': {'Lang': 'Hengelo', 'Middel': 'Hengelo', 'Kort': 'Hengelo'}, 'locatie': ('52.2616653442383', '6.79388904571533')}
+{'namen': {'Lang': 'Hengelo Gezondheidspark', 'Middel': 'Hengelo Gezondh.', 'Kort': 'Hengelo G'}, 'locatie': ('52.261667', '6.773611')}
+{'namen': {'Lang': 'Hengelo Oost', 'Middel': 'Hengelo Oost', 'Kort': 'Hengelo O'}, 'locatie': ('52.2688903808594', '6.81944465637207')}
+{'namen': {'Lang': 'Herstal', 'Middel': 'Herstal', 'Kort': 'Herstal'}, 'locatie': ('50.66076', '5.62231')}
+{'namen': {'Lang': 'Herzogenrath', 'Middel': 'Herzogenrath', 'Kort': 'Herzogenr'}, 'locatie': ('50.870916', '6.094486')}
+{'namen': {'Lang': 'Hillegom', 'Middel': 'Hillegom', 'Kort': 'Hillegom'}, 'locatie': ('52.3025016784668', '4.56555557250977')}
+{'namen': {'Lang': 'Hilversum', 'Middel': 'Hilversum', 'Kort': 'Hilversum'}, 'locatie': ('52.2258338928223', '5.18194437026978')}
+{'namen': {'Lang': 'Hilversum Media Park', 'Middel': 'Media Park', 'Kort': 'Media Park'}, 'locatie': ('52.2380561828613', '5.17388868331909')}
+{'namen': {'Lang': 'Hilversum Sportpark', 'Middel': 'Sportpark', 'Kort': 'Sportpark'}, 'locatie': ('52.2161102294922', '5.18722200393677')}
+{'namen': {'Lang': 'Hindeloopen', 'Middel': 'Hindeloopen', 'Kort': 'Hindeloopn'}, 'locatie': ('52.9464903', '5.423063')}
+{'namen': {'Lang': 'Hoboken-Polder', 'Middel': 'Hoboken-Polder', 'Kort': 'Hoboken-P'}, 'locatie': ('51.18285', '4.34831')}
+{'namen': {'Lang': 'Hoek van Holland Haven', 'Middel': 'Hoek v H. Haven', 'Kort': 'HvH Haven'}, 'locatie': ('51.9752769470215', '4.1288890838623')}
+{'namen': {'Lang': 'Hoek van Holland Strand', 'Middel': 'Hoek v H. Strand', 'Kort': 'HvH Strand'}, 'locatie': ('51.9816665649414', '4.11972236633301')}
+{'namen': {'Lang': 'Hoensbroek', 'Middel': 'Hoensbroek', 'Kort': 'Hoensbroek'}, 'locatie': ('50.9055557250977', '5.93055534362793')}
+{'namen': {'Lang': 'Hoevelaken', 'Middel': 'Hoevelaken', 'Kort': 'Hoevelaken'}, 'locatie': ('52.16652', '5.45718')}
+{'namen': {'Lang': 'Hollandsche Rading', 'Middel': 'Holl. Rading', 'Kort': 'Hol Rading'}, 'locatie': ('52.1777763366699', '5.17916679382324')}
+{'namen': {'Lang': 'Holten', 'Middel': 'Holten', 'Kort': 'Holten'}, 'locatie': ('52.2838897705078', '6.42027759552002')}
+{'namen': {'Lang': 'Holzwickede', 'Middel': 'Holzwickede', 'Kort': "H'wickede"}, 'locatie': ('51.504767', '7.619647')}
+{'namen': {'Lang': 'Hoofddorp', 'Middel': 'Hoofddorp', 'Kort': 'Hoofddorp'}, 'locatie': ('52.2933349609375', '4.70055532455444')}
+{'namen': {'Lang': 'Hoogeveen', 'Middel': 'Hoogeveen', 'Kort': 'Hoogeveen'}, 'locatie': ('52.7338905334473', '6.47361087799072')}
+{'namen': {'Lang': 'Hoogezand-Sappemeer', 'Middel': 'Hoogezand-Sap.', 'Kort': 'Hoogezand'}, 'locatie': ('53.1598181316756', '6.77075386047363')}
+{'namen': {'Lang': 'Hoogkarspel', 'Middel': 'Hoogkarspel', 'Kort': 'Hoogkrspl'}, 'locatie': ('52.6905555725098', '5.18388891220093')}
+{'namen': {'Lang': 'Hoorn', 'Middel': 'Hoorn', 'Kort': 'Hoorn'}, 'locatie': ('52.6447219848633', '5.05555534362793')}
+{'namen': {'Lang': 'Hoorn Kersenboogerd', 'Middel': 'Kersenboogerd', 'Kort': 'Hoorn Kers'}, 'locatie': ('52.6536102294922', '5.08555555343628')}
+{'namen': {'Lang': 'Hopfgarten', 'Middel': 'Hopfgarten', 'Kort': 'Hopfgarten'}, 'locatie': ('47.45525', '12.14921')}
+{'namen': {'Lang': 'Horst-Sevenum', 'Middel': 'Horst-Sevenum', 'Kort': 'Horst-Sev'}, 'locatie': ('51.4263877868652', '6.04222202301025')}
+{'namen': {'Lang': 'Houten', 'Middel': 'Houten', 'Kort': 'Houten'}, 'locatie': ('52.03402', '5.16821')}
+{'namen': {'Lang': 'Houten Castellum', 'Middel': 'Castellum', 'Kort': 'Houten C'}, 'locatie': ('52.01701', '5.17949')}
+{'namen': {'Lang': 'Houthem-St Gerlach', 'Middel': 'Houthem-St Gerl.', 'Kort': 'Houthem-St'}, 'locatie': ('50.8733329772949', '5.79722213745117')}
+{'namen': {'Lang': 'Hove', 'Middel': 'Hove', 'Kort': 'Hove'}, 'locatie': ('51.153611', '4.465278')}
+{'namen': {'Lang': 'Hurdegaryp', 'Middel': 'Hurdegaryp', 'Kort': 'Hurdegaryp'}, 'locatie': ('53.2187783', '5.934543')}
+{'namen': {'Lang': 'IJlst', 'Middel': 'IJlst', 'Kort': 'IJlst'}, 'locatie': ('53.0146614', '5.6160801')}
+{'namen': {'Lang': 'Innsbruck Hbf', 'Middel': 'Innsbruck Hbf', 'Kort': 'Innsbruck'}, 'locatie': ('47.26328', '11.401')}
+{'namen': {'Lang': 'Jenbach', 'Middel': 'Jenbach', 'Kort': 'Jenbach'}, 'locatie': ('47.38844', '11.77841')}
+{'namen': {'Lang': 'Kaldenkirchen', 'Middel': 'Kaldenkirchen', 'Kort': 'Kaldenkir'}, 'locatie': ('51.327184', '6.203225')}
+{'namen': {'Lang': 'Kalmthout', 'Middel': 'Kalmthout', 'Kort': 'Kalmthout'}, 'locatie': ('51.3909989', '4.4668202')}
+{'namen': {'Lang': 'Kampen', 'Middel': 'Kampen', 'Kort': 'Kampen'}, 'locatie': ('52.5597229003906', '5.92166662216186')}
+{'namen': {'Lang': 'Kampen Zuid', 'Middel': 'Kampen Zuid', 'Kort': 'Kampen Z'}, 'locatie': ('52.5331', '5.91309')}
+{'namen': {'Lang': 'Kapelle-Biezelinge', 'Middel': 'Kapelle-Biezel.', 'Kort': 'Kapelle-B'}, 'locatie': ('51.4808349609375', '3.95611119270325')}
+{'namen': {'Lang': 'Kapellen', 'Middel': 'Kapellen', 'Kort': 'Kapellen'}, 'locatie': ('51.31362', '4.43262')}
+{'namen': {'Lang': 'Karlsruhe Hbf', 'Middel': 'Karlsruhe Hbf', 'Kort': 'Karlsruhe'}, 'locatie': ('48.9936223', '8.400743')}
+{'namen': {'Lang': 'Kerkrade Centrum', 'Middel': 'Kerkrade C.', 'Kort': 'Kerkrade'}, 'locatie': ('50.8616676330566', '6.05749988555908')}
+{'namen': {'Lang': 'Kerkrade West', 'Middel': 'Kerkrade West', 'Kort': 'Kerkrade W'}, 'locatie': ('50.85355', '6.02578')}
+{'namen': {'Lang': 'Kesteren', 'Middel': 'Kesteren', 'Kort': 'Kesteren'}, 'locatie': ('51.9313869', '5.5833465')}
+{'namen': {'Lang': 'Kijkuit', 'Middel': 'Kijkuit', 'Kort': 'Kijkuit'}, 'locatie': ('51.37867', '4.46722')}
+{'namen': {'Lang': 'Kirchberg in Tirol', 'Middel': 'Kirchberg in T.', 'Kort': 'Kirchberg'}, 'locatie': ('47.44921', '12.30953')}
+{'namen': {'Lang': 'Kitzbühel', 'Middel': 'Kitzbühel', 'Kort': 'Kitzbühel'}, 'locatie': ('47.45411', '12.39104')}
+{'namen': {'Lang': 'Klarenbeek', 'Middel': 'Klarenbeek', 'Kort': 'Klarenbk'}, 'locatie': ('52.1780548095703', '6.08361101150513')}
+{'namen': {'Lang': 'Klimmen-Ransdaal', 'Middel': 'Klimmen-Ransdaal', 'Kort': 'Klimmen-R'}, 'locatie': ('50.8663902282715', '5.8905553817749')}
+{'namen': {'Lang': 'Koblenz Hbf', 'Middel': 'Koblenz Hbf', 'Kort': 'Koblenz'}, 'locatie': ('50.351085', '7.588649')}
+{'namen': {'Lang': 'Konin', 'Middel': 'Konin', 'Kort': 'Konin'}, 'locatie': ('52.23702', '18.22069')}
+{'namen': {'Lang': 'Kontich', 'Middel': 'Kontich', 'Kort': 'Kontich'}, 'locatie': ('51.133889', '4.476667')}
+{'namen': {'Lang': 'Koog Bloemwijk', 'Middel': 'Koog Bloemwijk', 'Kort': 'Koog Bloem'}, 'locatie': ('52.458610534668', '4.80555534362793')}
+{'namen': {'Lang': 'Koog-Zaandijk', 'Middel': 'Koog-Zaandijk', 'Kort': 'Koog Zaand'}, 'locatie': ('52.469165802002', '4.80499982833862')}
+{'namen': {'Lang': 'Koudum-Molkwerum', 'Middel': 'Koudum-Molkwerum', 'Kort': 'Koudum-M'}, 'locatie': ('52.9028197', '5.4106913')}
+{'namen': {'Lang': 'Krabbendijke', 'Middel': 'Krabbendijke', 'Kort': 'Krabbendke'}, 'locatie': ('51.4333343505859', '4.11694431304932')}
+{'namen': {'Lang': 'Krommenie-Assendelft', 'Middel': 'Krommenie-Ass.', 'Kort': 'Krommenie'}, 'locatie': ('52.49511', '4.75417')}
+{'namen': {'Lang': 'Kropswolde', 'Middel': 'Kropswolde', 'Kort': 'Kropswolde'}, 'locatie': ('53.1617362', '6.7220882')}
+{'namen': {'Lang': 'Kruiningen-Yerseke', 'Middel': 'Kruiningen-Y.', 'Kort': 'Kruiningen'}, 'locatie': ('51.4650001525879', '4.03722238540649')}
+{'namen': {'Lang': 'Kufstein', 'Middel': 'Kufstein', 'Kort': 'Kufstein'}, 'locatie': ('47.5831', '12.16568')}
+{'namen': {'Lang': 'Kutno', 'Middel': 'Kutno', 'Kort': 'Kutno'}, 'locatie': ('52.22694', '19.34859')}
+{'namen': {'Lang': 'Köln Hbf', 'Middel': 'Köln Hbf', 'Kort': 'Köln Hbf'}, 'locatie': ('50.9432158', '6.9589214')}
+{'namen': {'Lang': 'Köln-Deutz', 'Middel': 'Köln-Deutz', 'Kort': 'Köln-Deutz'}, 'locatie': ('50.940874', '6.975001')}
+{'namen': {'Lang': 'Lage Zwaluwe', 'Middel': 'Lage Zwaluwe', 'Kort': 'Lage Zwalu'}, 'locatie': ('51.6911125183105', '4.66305541992188')}
+{'namen': {'Lang': 'Landeck', 'Middel': 'Landeck', 'Kort': 'Landeck'}, 'locatie': ('47.14824', '10.57839')}
+{'namen': {'Lang': 'Landgraaf', 'Middel': 'Landgraaf', 'Kort': 'Landgraaf'}, 'locatie': ('50.8963890075684', '6.01916646957398')}
+{'namen': {'Lang': 'Landquart', 'Middel': 'Landquart', 'Kort': 'Landquart'}, 'locatie': ('46.96722', '9.5538')}
+{'namen': {'Lang': 'Landry', 'Middel': 'Landry', 'Kort': 'Landry'}, 'locatie': ('45.57414', '6.73378')}
+{'namen': {'Lang': 'Leer (Ostfriesland)', 'Middel': 'Leer (Ostfr.)', 'Kort': 'Leer'}, 'locatie': ('53.23165', '7.465283')}
+{'namen': {'Lang': 'Leerdam', 'Middel': 'Leerdam', 'Kort': 'Leerdam'}, 'locatie': ('51.8947219848633', '5.09138870239258')}
+{'namen': {'Lang': 'Leeuwarden', 'Middel': 'Leeuwarden', 'Kort': 'Leeuwarden'}, 'locatie': ('53.1958351135254', '5.79222202301025')}
+{'namen': {'Lang': 'Leeuwarden Achter d Hoven', 'Middel': 'Achter de Hoven', 'Kort': 'Achter d.H'}, 'locatie': ('53.19889', '5.81639')}
+{'namen': {'Lang': 'Leeuwarden Camminghaburen', 'Middel': 'Camminghaburen', 'Kort': 'Camminghab'}, 'locatie': ('53.2021808', '5.8422968')}
+{'namen': {'Lang': 'Legden', 'Middel': 'Legden', 'Kort': 'Legden'}, 'locatie': ('52.034924', '7.088538')}
+{'namen': {'Lang': 'Leiden Centraal', 'Middel': 'Leiden C.', 'Kort': 'Leiden C'}, 'locatie': ('52.1661109924316', '4.48166656494141')}
+{'namen': {'Lang': 'Leiden Lammenschans', 'Middel': 'Lammenschans', 'Kort': 'Leiden Lam'}, 'locatie': ('52.1469459533691', '4.49249982833862')}
+{'namen': {'Lang': 'Lelystad Centrum', 'Middel': 'Lelystad C.', 'Kort': 'Lelystad'}, 'locatie': ('52.5077781677246', '5.47277784347534')}
+{'namen': {'Lang': 'Lette (Kr Coersfeld)', 'Middel': 'Lette (Kr Coers)', 'Kort': 'Lette'}, 'locatie': ('51.8925', '7.187')}
+{'namen': {'Lang': 'Leuven', 'Middel': 'Leuven', 'Kort': 'Leuven'}, 'locatie': ('50.88136', '4.71568')}
+{'namen': {'Lang': 'Lichtenvoorde-Groenlo', 'Middel': 'Lichtenvoorde-G.', 'Kort': 'Lichtenv-G'}, 'locatie': ('52.01188', '6.59641')}
+{'namen': {'Lang': 'Liers', 'Middel': 'Liers', 'Kort': 'Liers'}, 'locatie': ('50.69822', '5.56848')}
+{'namen': {'Lang': 'Lille Europe', 'Middel': 'Lille Europe', 'Kort': 'Lille E.'}, 'locatie': ('50.639444', '3.074722')}
+{'namen': {'Lang': 'Limburg Süd', 'Middel': 'Limburg Süd', 'Kort': 'Limburg S'}, 'locatie': ('50.382498', '8.096112')}
+{'namen': {'Lang': 'Livorno Centrale', 'Middel': 'Livorno Centrale', 'Kort': 'Livorno C.'}, 'locatie': ('43.56446', '10.33529')}
+{'namen': {'Lang': 'Liège-Guillemins', 'Middel': 'Liège-Guillemins', 'Kort': 'Liège-G.'}, 'locatie': ('50.62436', '5.56648')}
+{'namen': {'Lang': 'Liège-Jonfosse', 'Middel': 'Liège-Jonfosse', 'Kort': 'Liège-J.'}, 'locatie': ('50.64051', '5.56197')}
+{'namen': {'Lang': 'Liège-Palais', 'Middel': 'Liège-Palais', 'Kort': 'Liège-P.'}, 'locatie': ('50.64648', '5.57072')}
+{'namen': {'Lang': 'Lochem', 'Middel': 'Lochem', 'Kort': 'Lochem'}, 'locatie': ('52.1666679382324', '6.42638874053955')}
+{'namen': {'Lang': 'Lokeren', 'Middel': 'Lokeren', 'Kort': 'Lokeren'}, 'locatie': ('51.107777', '3.9875')}
+{'namen': {'Lang': 'London St. Pancras', 'Middel': 'London St. Pancr', 'Kort': 'London StP'}, 'locatie': ('51.53239', '0.12716')}
+{'namen': {'Lang': 'Loppersum', 'Middel': 'Loppersum', 'Kort': 'Loppersum'}, 'locatie': ('53.3347145', '6.7472625')}
+{'namen': {'Lang': 'Lunteren', 'Middel': 'Lunteren', 'Kort': 'Lunteren'}, 'locatie': ('52.085277557373', '5.62444448471069')}
+{'namen': {'Lang': 'Lüdinghausen', 'Middel': 'Lüdinghausen', 'Kort': "Lü'hausen"}, 'locatie': ('51.76184', '7.43165')}
+{'namen': {'Lang': 'Lünen Hbf', 'Middel': 'Lünen Hbf', 'Kort': 'Lünen Hbf'}, 'locatie': ('51.61713', '7.52949')}
+{'namen': {'Lang': 'Maarheeze', 'Middel': 'Maarheeze', 'Kort': 'Maarheeze'}, 'locatie': ('51.3037623603504', '5.63034296035766')}
+{'namen': {'Lang': 'Maarn', 'Middel': 'Maarn', 'Kort': 'Maarn'}, 'locatie': ('52.0641670227051', '5.36999988555908')}
+{'namen': {'Lang': 'Maarssen', 'Middel': 'Maarssen', 'Kort': 'Maarssen'}, 'locatie': ('52.1352767944336', '5.03361129760742')}
+{'namen': {'Lang': 'Maassluis', 'Middel': 'Maassluis', 'Kort': 'Maassluis'}, 'locatie': ('51.9161109924316', '4.25472211837769')}
+{'namen': {'Lang': 'Maassluis West', 'Middel': 'Maassluis West', 'Kort': 'Maassl W'}, 'locatie': ('51.9258346557617', '4.23611116409302')}
+{'namen': {'Lang': 'Maastricht', 'Middel': 'Maastricht', 'Kort': 'Maastricht'}, 'locatie': ('50.8502769470215', '5.70555543899536')}
+{'namen': {'Lang': 'Maastricht Noord', 'Middel': 'Maastricht Noord', 'Kort': 'Maastr N'}, 'locatie': ('50.87087', '5.71774')}
+{'namen': {'Lang': 'Maastricht Randwyck', 'Middel': 'Maastricht Randw', 'Kort': 'Maastr Rw'}, 'locatie': ('50.8386116027832', '5.71722221374512')}
+{'namen': {'Lang': 'Mainz Hbf', 'Middel': 'Mainz Hbf', 'Kort': 'Mainz Hbf'}, 'locatie': ('50.001117', '8.25872')}
+{'namen': {'Lang': 'Mannheim Hbf', 'Middel': 'Mannheim Hbf', 'Kort': 'Mannheim'}, 'locatie': ('49.479354', '8.468921')}
+{'namen': {'Lang': 'Mantgum', 'Middel': 'Mantgum', 'Kort': 'Mantgum'}, 'locatie': ('53.1296368', '5.7131996')}
+{'namen': {'Lang': 'Mariënberg', 'Middel': 'Mariënberg', 'Kort': 'Mariënberg'}, 'locatie': ('52.5094451904297', '6.57527780532837')}
+{'namen': {'Lang': 'Marne-la-Vallée-Chessy', 'Middel': 'Marne-la-Vallée', 'Kort': 'Marne-la-V'}, 'locatie': ('48.86826', '2.78218')}
+{'namen': {'Lang': 'Marseille-St-Charles', 'Middel': 'Marseille-St-C', 'Kort': 'Marseille'}, 'locatie': ('43.30381', '5.38195')}
+{'namen': {'Lang': 'Martenshoek', 'Middel': 'Martenshoek', 'Kort': 'Martensh'}, 'locatie': ('53.1607232', '6.7402989')}
+{'namen': {'Lang': 'Mechelen', 'Middel': 'Mechelen', 'Kort': 'Mechelen'}, 'locatie': ('51.01786', '4.48306')}
+{'namen': {'Lang': 'Mechelen-Nekkerspoel', 'Middel': 'Mech-Nekkerspoel', 'Kort': 'Nekkersp'}, 'locatie': ('51.03', '4.49')}
+{'namen': {'Lang': 'Meerssen', 'Middel': 'Meerssen', 'Kort': 'Meerssen'}, 'locatie': ('50.882879392551', '5.75099945068359')}
+{'namen': {'Lang': 'Melsele', 'Middel': 'Melsele', 'Kort': 'Melsele'}, 'locatie': ('51.210556', '4.286667')}
+{'namen': {'Lang': 'Meppel', 'Middel': 'Meppel', 'Kort': 'Meppel'}, 'locatie': ('52.6908340454102', '6.19750022888184')}
+{'namen': {'Lang': 'Metelen Land', 'Middel': 'Metelen Land', 'Kort': 'Metelen L.'}, 'locatie': ('52.162444', '7.254423')}
+{'namen': {'Lang': 'Middelburg', 'Middel': 'Middelburg', 'Kort': 'Middelburg'}, 'locatie': ('51.4947204589844', '3.61722230911255')}
+{'namen': {'Lang': 'Milmort', 'Middel': 'Milmort', 'Kort': 'Milmort'}, 'locatie': ('50.69301', '5.59983')}
+{'namen': {'Lang': 'Minden (Westf.)', 'Middel': 'Minden (Westf.)', 'Kort': 'Minden'}, 'locatie': ('52.290138', '8.934728')}
+{'namen': {'Lang': 'Montabaur', 'Middel': 'Montabaur', 'Kort': 'Montabaur'}, 'locatie': ('50.444834', '7.825333')}
+{'namen': {'Lang': 'Mook Molenhoek', 'Middel': 'Molenhoek', 'Kort': 'Mook Molen'}, 'locatie': ('51.77158', '5.88145')}
+{'namen': {'Lang': 'Mortsel-Deurnesteenweg', 'Middel': 'M-Deurnesteenweg', 'Kort': 'M-Deurnest'}, 'locatie': ('51.1825', '4.447222')}
+{'namen': {'Lang': 'Mortsel-Oude God', 'Middel': 'Mortsel-Oude God', 'Kort': 'M-Oude God'}, 'locatie': ('51.171111', '4.455833')}
+{'namen': {'Lang': 'Moutiers-Salins-Brides', 'Middel': 'Moutiers-Salins', 'Kort': 'Moutiers-S'}, 'locatie': ('45.48664', '6.53105')}
+{'namen': {'Lang': 'Mönchengladbach Hbf', 'Middel': 'Mönchengladbach', 'Kort': 'Mönchengl'}, 'locatie': ('51.196583', '6.446111')}
+{'namen': {'Lang': 'München Hbf', 'Middel': 'München Hbf', 'Kort': 'München'}, 'locatie': ('48.1402033359505', '11.558346748352')}
+{'namen': {'Lang': 'Münster (Westf.) Hbf', 'Middel': 'Münster (Westf.)', 'Kort': 'Münster'}, 'locatie': ('51.956892', '7.635895')}
+{'namen': {'Lang': 'Münster Zentrum Nord', 'Middel': 'Münster Nord', 'Kort': 'Münster N'}, 'locatie': ('51.984987', '7.63861')}
+{'namen': {'Lang': 'Münster-Häger', 'Middel': 'Münster-Häger', 'Kort': 'Münster-H'}, 'locatie': ('52.022327', '7.562668')}
+{'namen': {'Lang': 'Naarden-Bussum', 'Middel': 'Naarden-Bussum', 'Kort': 'Naarden-B'}, 'locatie': ('52.2802772521973', '5.15694427490234')}
+{'namen': {'Lang': 'Neuss Hbf', 'Middel': 'Neuss Hbf', 'Kort': 'Neuss'}, 'locatie': ('51.20444', '6.68468')}
+{'namen': {'Lang': 'Niel', 'Middel': 'Niel', 'Kort': 'Niel'}, 'locatie': ('51.11154', '4.33845')}
+{'namen': {'Lang': 'Nieuw Amsterdam', 'Middel': 'Nieuw Amsterdam', 'Kort': "Nw A'dam"}, 'locatie': ('52.7186126708984', '6.84861087799072')}
+{'namen': {'Lang': 'Nieuw Vennep', 'Middel': 'Nieuw Vennep', 'Kort': 'Nw Vennep'}, 'locatie': ('52.2588882446289', '4.64555549621582')}
+{'namen': {'Lang': 'Nieuwerkerk a/d IJssel', 'Middel': 'Nieuwerkerk', 'Kort': 'Nieuwerkrk'}, 'locatie': ('51.9652786254883', '4.61694431304932')}
+{'namen': {'Lang': 'Nieuwkerken-Waas', 'Middel': 'Nieuwkerken-Waas', 'Kort': 'Nieuwkerke'}, 'locatie': ('51.185556', '4.185832')}
+{'namen': {'Lang': 'Nijkerk', 'Middel': 'Nijkerk', 'Kort': 'Nijkerk'}, 'locatie': ('52.2222213745117', '5.49388885498047')}
+{'namen': {'Lang': 'Nijmegen', 'Middel': 'Nijmegen', 'Kort': 'Nijmegen'}, 'locatie': ('51.8436126708984', '5.85222244262695')}
+{'namen': {'Lang': 'Nijmegen Dukenburg', 'Middel': 'Dukenburg', 'Kort': 'Dukenburg'}, 'locatie': ('51.8241653442383', '5.79555559158325')}
+{'namen': {'Lang': 'Nijmegen Goffert', 'Middel': 'Nijmegen Goffert', 'Kort': 'Goffert'}, 'locatie': ('51.8273', '5.822722')}
+{'namen': {'Lang': 'Nijmegen Heyendaal', 'Middel': 'Nm Heyendaal', 'Kort': 'Heyendaal'}, 'locatie': ('51.8269462585449', '5.86749982833862')}
+{'namen': {'Lang': 'Nijmegen Lent', 'Middel': 'Nijmegen Lent', 'Kort': 'Lent'}, 'locatie': ('51.861811', '5.859686')}
+{'namen': {'Lang': 'Nijverdal', 'Middel': 'Nijverdal', 'Kort': 'Nijverdal'}, 'locatie': ('52.36555', '6.471111')}
+{'namen': {'Lang': 'Noorderkempen', 'Middel': 'Noorderkempen', 'Kort': 'N.kempen'}, 'locatie': ('51.3573', '4.63273')}
+{'namen': {'Lang': 'Nordwalde', 'Middel': 'Nordwalde', 'Kort': 'Nordwalde'}, 'locatie': ('52.077618', '7.461706')}
+{'namen': {'Lang': 'Nunspeet', 'Middel': 'Nunspeet', 'Kort': 'Nunspeet'}, 'locatie': ('52.3708343505859', '5.78527784347534')}
+{'namen': {'Lang': 'Nuth', 'Middel': 'Nuth', 'Kort': 'Nuth'}, 'locatie': ('50.9194450378418', '5.89277791976929')}
+{'namen': {'Lang': 'Nürnberg Hbf', 'Middel': 'Nürnberg Hbf', 'Kort': 'Nürnberg'}, 'locatie': ('49.4449634', '11.0826087')}
+{'namen': {'Lang': 'Obdam', 'Middel': 'Obdam', 'Kort': 'Obdam'}, 'locatie': ('52.6780548095703', '4.90722227096558')}
+{'namen': {'Lang': 'Oberhausen Hbf', 'Middel': 'Oberhausen Hbf', 'Kort': 'Oberhausen'}, 'locatie': ('51.47512', '6.852038')}
+{'namen': {'Lang': 'Ochtrup', 'Middel': 'Ochtrup', 'Kort': 'Ochtrup'}, 'locatie': ('52.201703', '7.182643')}
+{'namen': {'Lang': 'Offenburg', 'Middel': 'Offenburg', 'Kort': 'Offenburg'}, 'locatie': ('48.476475', '7.946723')}
+{'namen': {'Lang': 'Oisterwijk', 'Middel': 'Oisterwijk', 'Kort': 'Oisterwijk'}, 'locatie': ('51.5822219848633', '5.19416666030884')}
+{'namen': {'Lang': 'Oldenzaal', 'Middel': 'Oldenzaal', 'Kort': 'Oldenzaal'}, 'locatie': ('52.3063888549805', '6.93472242355347')}
+{'namen': {'Lang': 'Olst', 'Middel': 'Olst', 'Kort': 'Olst'}, 'locatie': ('52.3347206115723', '6.11305570602417')}
+{'namen': {'Lang': 'Ommen', 'Middel': 'Ommen', 'Kort': 'Ommen'}, 'locatie': ('52.5094451904297', '6.41583347320557')}
+{'namen': {'Lang': 'Oosterbeek', 'Middel': 'Oosterbeek', 'Kort': 'Oosterbeek'}, 'locatie': ('51.9949989318848', '5.84000015258789')}
+{'namen': {'Lang': 'Opheusden', 'Middel': 'Opheusden', 'Kort': 'Opheusden'}, 'locatie': ('51.9261615', '5.6371145')}
+{'namen': {'Lang': 'Osnabrück Hbf', 'Middel': 'Osnabrück Hbf', 'Kort': 'Osnabrück'}, 'locatie': ('52.272851', '8.061781')}
+{'namen': {'Lang': 'Oss', 'Middel': 'Oss', 'Kort': 'Oss'}, 'locatie': ('51.7655563354492', '5.53222227096558')}
+{'namen': {'Lang': 'Oss West', 'Middel': 'Oss West', 'Kort': 'Oss W'}, 'locatie': ('51.758056640625', '5.50555562973022')}
+{'namen': {'Lang': 'Oudenbosch', 'Middel': 'Oudenbosch', 'Kort': 'Oudenbosch'}, 'locatie': ('51.587776184082', '4.53333330154419')}
+{'namen': {'Lang': 'Overveen', 'Middel': 'Overveen', 'Kort': 'Overveen'}, 'locatie': ('52.3911094665527', '4.6061110496521')}
+{'namen': {'Lang': 'Paris-Nord', 'Middel': 'Paris-Nord', 'Kort': 'Paris-Nord'}, 'locatie': ('48.87977', '2.35575')}
+{'namen': {'Lang': 'Plochingen', 'Middel': 'Plochingen', 'Kort': 'Plochingen'}, 'locatie': ('48.71308', '9.41081')}
+{'namen': {'Lang': 'Poznan Gl.', 'Middel': 'Poznan Gl.', 'Kort': 'Poznan Gl.'}, 'locatie': ('52.40199', '16.91087')}
+{'namen': {'Lang': 'Praha hl.n.', 'Middel': 'Praha hl.n.', 'Kort': 'Praha hl.n'}, 'locatie': ('50.08306', '14.435')}
+{'namen': {'Lang': 'Praha-Holesovice', 'Middel': 'Praha-Holesovice', 'Kort': 'Praha-Hol.'}, 'locatie': ('50.1102', '14.44')}
+{'namen': {'Lang': 'Preussen', 'Middel': 'Preussen', 'Kort': 'Preussen'}, 'locatie': ('51.58833', '7.53933')}
+{'namen': {'Lang': 'Purmerend', 'Middel': 'Purmerend', 'Kort': 'Purmerend'}, 'locatie': ('52.5030555725098', '4.95361089706421')}
+{'namen': {'Lang': 'Purmerend Overwhere', 'Middel': 'Overwhere', 'Kort': 'Overwhere'}, 'locatie': ('52.5113906860352', '4.96833324432373')}
+{'namen': {'Lang': 'Purmerend Weidevenne', 'Middel': 'Weidevenne', 'Kort': 'Weidevenne'}, 'locatie': ('52.4965906325416', '4.93562936782836')}
+{'namen': {'Lang': 'Putten', 'Middel': 'Putten', 'Kort': 'Putten'}, 'locatie': ('52.2649993896484', '5.57527780532837')}
+{'namen': {'Lang': 'Puurs', 'Middel': 'Puurs', 'Kort': 'Puurs'}, 'locatie': ('51.07716', '4.28273')}
+{'namen': {'Lang': 'Raalte', 'Middel': 'Raalte', 'Kort': 'Raalte'}, 'locatie': ('52.3916664123535', '6.27750015258789')}
+{'namen': {'Lang': 'Rathenow', 'Middel': 'Rathenow', 'Kort': 'Rathenow'}, 'locatie': ('52.599444', '12.354721')}
+{'namen': {'Lang': 'Ravenstein', 'Middel': 'Ravenstein', 'Kort': 'Ravenstein'}, 'locatie': ('51.7941665649414', '5.63583326339722')}
+{'namen': {'Lang': 'Reuver', 'Middel': 'Reuver', 'Kort': 'Reuver'}, 'locatie': ('51.2832191665301', '6.07895851135253')}
+{'namen': {'Lang': 'Rheden', 'Middel': 'Rheden', 'Kort': 'Rheden'}, 'locatie': ('52.0099983215332', '6.03055572509766')}
+{'namen': {'Lang': 'Rheine', 'Middel': 'Rheine', 'Kort': 'Rheine'}, 'locatie': ('52.276299', '7.434255')}
+{'namen': {'Lang': 'Rhenen', 'Middel': 'Rhenen', 'Kort': 'Rhenen'}, 'locatie': ('51.958610534668', '5.57833337783814')}
+{'namen': {'Lang': 'Rijssen', 'Middel': 'Rijssen', 'Kort': 'Rijssen'}, 'locatie': ('52.3122215270996', '6.52027797698975')}
+{'namen': {'Lang': 'Rijswijk', 'Middel': 'Rijswijk', 'Kort': 'Rijswijk'}, 'locatie': ('52.039722442627', '4.31916666030884')}
+{'namen': {'Lang': 'Rilland-Bath', 'Middel': 'Rilland-Bath', 'Kort': 'Rilland-B'}, 'locatie': ('51.422779083252', '4.16111087799072')}
+{'namen': {'Lang': 'Roermond', 'Middel': 'Roermond', 'Kort': 'Roermond'}, 'locatie': ('51.1930541992188', '5.9941668510437')}
+{'namen': {'Lang': 'Roodeschool', 'Middel': 'Roodeschool', 'Kort': 'Roodesch'}, 'locatie': ('53.4192128', '6.7606167')}
+{'namen': {'Lang': 'Roosendaal', 'Middel': 'Roosendaal', 'Kort': 'Roosendaal'}, 'locatie': ('51.5402793884277', '4.45833349227905')}
+{'namen': {'Lang': 'Rosendahl-Holtwick', 'Middel': 'Rosendahl-Holtw.', 'Kort': 'Rosend-H'}, 'locatie': ('51.9994672604096', '7.1215009689331')}
+{'namen': {'Lang': 'Rosmalen', 'Middel': 'Rosmalen', 'Kort': 'Rosmalen'}, 'locatie': ('51.7147216796875', '5.36805534362793')}
+{'namen': {'Lang': 'Rotterdam Alexander', 'Middel': 'Alexander', 'Kort': 'Alexander'}, 'locatie': ('51.9519462585449', '4.55361127853394')}
+{'namen': {'Lang': 'Rotterdam Blaak', 'Middel': 'Rotterdam Blaak', 'Kort': 'Blaak'}, 'locatie': ('51.9202766418457', '4.48888874053955')}
+{'namen': {'Lang': 'Rotterdam Centraal', 'Middel': 'Rotterdam C.', 'Kort': "R'dam C"}, 'locatie': ('51.9249992370605', '4.46888875961304')}
+{'namen': {'Lang': 'Rotterdam Lombardijen', 'Middel': 'Lombardijen', 'Kort': 'Lombardije'}, 'locatie': ('51.8800010681152', '4.53138875961304')}
+{'namen': {'Lang': 'Rotterdam Noord', 'Middel': 'Rotterdam Noord', 'Kort': "R'dam N"}, 'locatie': ('51.9422225952148', '4.48166656494141')}
+{'namen': {'Lang': 'Rotterdam Stadion', 'Middel': "R'dam Stadion", 'Kort': "R'dam Sta"}, 'locatie': ('51.8938903808594', '4.51972198486328')}
+{'namen': {'Lang': 'Rotterdam Zuid', 'Middel': 'Rotterdam Zuid', 'Kort': "R'dam Z"}, 'locatie': ('51.9044456481934', '4.51027774810791')}
+{'namen': {'Lang': 'Ruisbroek-Sauvegarde', 'Middel': 'Ruisbroek-Sauv.', 'Kort': 'Ruisbr-S'}, 'locatie': ('51.08115', '4.32551')}
+{'namen': {'Lang': 'Ruurlo', 'Middel': 'Ruurlo', 'Kort': 'Ruurlo'}, 'locatie': ('52.0810888', '6.4492656')}
+{'namen': {'Lang': 'Rzepin', 'Middel': 'Rzepin', 'Kort': 'Rzepin'}, 'locatie': ('52.35022', '14.81507')}
+{'namen': {'Lang': 'Saalfelden', 'Middel': 'Saalfelden', 'Kort': 'Saalfelden'}, 'locatie': ('47.42684', '12.82942')}
+{'namen': {'Lang': 'Santpoort Noord', 'Middel': 'Santpoort Noord', 'Kort': 'Santprt N'}, 'locatie': ('52.4338874816895', '4.63250017166138')}
+{'namen': {'Lang': 'Santpoort Zuid', 'Middel': 'Santpoort Zuid', 'Kort': 'Santprt Z'}, 'locatie': ('52.4197235107422', '4.63138866424561')}
+{'namen': {'Lang': 'Sappemeer Oost', 'Middel': 'Sappemeer Oost', 'Kort': 'Sappemr O'}, 'locatie': ('53.1589183', '6.7955648')}
+{'namen': {'Lang': 'Sassenheim', 'Middel': 'Sassenheim', 'Kort': 'Sassenheim'}, 'locatie': ('52.215278', '4.517222')}
+{'namen': {'Lang': 'Sauwerd', 'Middel': 'Sauwerd', 'Kort': 'Sauwerd'}, 'locatie': ('53.29113', '6.5404')}
+{'namen': {'Lang': 'Schagen', 'Middel': 'Schagen', 'Kort': 'Schagen'}, 'locatie': ('52.7844429016113', '4.80527782440186')}
+{'namen': {'Lang': 'Scheemda', 'Middel': 'Scheemda', 'Kort': 'Scheemda'}, 'locatie': ('53.1655362', '6.9777775')}
+{'namen': {'Lang': 'Schelle', 'Middel': 'Schelle', 'Kort': 'Schelle'}, 'locatie': ('51.12555', '4.34023')}
+{'namen': {'Lang': 'Schiedam Centrum', 'Middel': 'Schiedam C.', 'Kort': 'Schiedam C'}, 'locatie': ('51.9212438128032', '4.4089937210083')}
+{'namen': {'Lang': 'Schiedam Nieuwland', 'Middel': 'Nieuwland', 'Kort': 'Nieuwland'}, 'locatie': ('51.9222221374512', '4.38222217559814')}
+{'namen': {'Lang': 'Schin op Geul', 'Middel': 'Schin op Geul', 'Kort': 'Schin op G'}, 'locatie': ('50.856388092041', '5.87222242355347')}
+{'namen': {'Lang': 'Schinnen', 'Middel': 'Schinnen', 'Kort': 'Schinnen'}, 'locatie': ('50.9391670227051', '5.87444448471069')}
+{'namen': {'Lang': 'Schiphol Airport', 'Middel': 'Schiphol Airport', 'Kort': 'Schiphol'}, 'locatie': ('52.3094444274902', '4.76194429397583')}
+{'namen': {'Lang': 'Schwarzach-St. Veit', 'Middel': 'Schwarzach-St. V', 'Kort': 'Schwarzach'}, 'locatie': ('47.31853', '13.15446')}
+{'namen': {'Lang': 'Schwelm', 'Middel': 'Schwelm', 'Kort': 'Schwelm'}, 'locatie': ('51.290526', '7.289681')}
+{'namen': {'Lang': 'Schwerte (Ruhr)', 'Middel': 'Schwerte (R)', 'Kort': 'Schwerte'}, 'locatie': ('51.442281', '7.55896')}
+{'namen': {'Lang': 'Selm', 'Middel': 'Selm', 'Kort': 'Selm'}, 'locatie': ('51.707885', '7.453396')}
+{'namen': {'Lang': 'Selm-Beifang', 'Middel': 'Selm-Beifang', 'Kort': 'Selm-B'}, 'locatie': ('51.692947', '7.454829')}
+{'namen': {'Lang': 'Siegburg/Bonn', 'Middel': 'Siegburg/Bonn', 'Kort': 'Siegburg'}, 'locatie': ('50.7939411', '7.2030017')}
+{'namen': {'Lang': 'Simpelveld', 'Middel': 'Simpelveld', 'Kort': 'Simpelveld'}, 'locatie': ('50.8314750744184', '5.97973823547363')}
+{'namen': {'Lang': 'Sinaai', 'Middel': 'Sinaai', 'Kort': 'Sinaai'}, 'locatie': ('51.143333', '4.068889')}
+{'namen': {'Lang': 'Sint-Katelijne-Waver', 'Middel': 'Sint-Katelijne-W', 'Kort': 'Sint-Katel'}, 'locatie': ('51.07', '4.496111')}
+{'namen': {'Lang': 'Sint-Niklaas', 'Middel': 'Sint-Niklaas', 'Kort': 'Sint-Nikla'}, 'locatie': ('51.171944', '4.144167')}
+{'namen': {'Lang': 'Sittard', 'Middel': 'Sittard', 'Kort': 'Sittard'}, 'locatie': ('51.0016670227051', '5.85861110687256')}
+{'namen': {'Lang': 'Sliedrecht', 'Middel': 'Sliedrecht', 'Kort': 'Sliedrecht'}, 'locatie': ('51.8297233581543', '4.77833318710327')}
+{'namen': {'Lang': 'Sliedrecht Baanhoek', 'Middel': 'Baanhoek', 'Kort': 'Baanhoek'}, 'locatie': ('51.829722', '4.743333')}
+{'namen': {'Lang': 'Sneek', 'Middel': 'Sneek', 'Kort': 'Sneek'}, 'locatie': ('53.0328688', '5.6523969')}
+{'namen': {'Lang': 'Sneek Noord', 'Middel': 'Sneek Noord', 'Kort': 'Sneek N'}, 'locatie': ('53.0409319', '5.6631808')}
+{'namen': {'Lang': 'Soest', 'Middel': 'Soest', 'Kort': 'Soest'}, 'locatie': ('52.1733322143555', '5.30999994277954')}
+{'namen': {'Lang': 'Soest Zuid', 'Middel': 'Soest Zuid', 'Kort': 'Soest Z'}, 'locatie': ('52.1652793884277', '5.30305576324463')}
+{'namen': {'Lang': 'Soestdijk', 'Middel': 'Soestdijk', 'Kort': 'Soestdijk'}, 'locatie': ('52.1836128234863', '5.30000019073486')}
+{'namen': {'Lang': 'Spaubeek', 'Middel': 'Spaubeek', 'Kort': 'Spaubeek'}, 'locatie': ('50.9430541992188', '5.85166645050049')}
+{'namen': {'Lang': 'Spekholzerheide', 'Middel': 'Spekholzerheide', 'Kort': 'Spekholzer'}, 'locatie': ('50.85355', '6.02578')}
+{'namen': {'Lang': 'St-Mariaburg', 'Middel': 'St-Mariaburg', 'Kort': 'St-Mariab'}, 'locatie': ('51.29126', '4.43495')}
+{'namen': {'Lang': 'St. Johann im Pongau', 'Middel': 'St. Johann im P.', 'Kort': 'St.JohannP'}, 'locatie': ('47.34811', '13.19486')}
+{'namen': {'Lang': 'St. Johann in Tirol', 'Middel': 'St. Johann in T.', 'Kort': 'St. Johann'}, 'locatie': ('47.51962', '12.43079')}
+{'namen': {'Lang': 'Stavoren', 'Middel': 'Stavoren', 'Kort': 'Stavoren'}, 'locatie': ('52.8865535', '5.3600212')}
+{'namen': {'Lang': 'Stedum', 'Middel': 'Stedum', 'Kort': 'Stedum'}, 'locatie': ('53.3262092', '6.6875551')}
+{'namen': {'Lang': 'Steenwijk', 'Middel': 'Steenwijk', 'Kort': 'Steenwijk'}, 'locatie': ('52.7915109924316', '6.11455576324463')}
+{'namen': {'Lang': 'Steinfurt-Borghorst', 'Middel': 'Steinfurt-Borgh', 'Kort': 'Steinf-Bor'}, 'locatie': ('52.118791', '7.397581')}
+{'namen': {'Lang': 'Steinfurt-Burgsteinfurt', 'Middel': 'Steinfurt-Burgst', 'Kort': 'Steinf-Bur'}, 'locatie': ('52.147384', '7.32934')}
+{'namen': {'Lang': 'Steinfurt-Grottenkamp', 'Middel': 'Steinfurt-Grotte', 'Kort': 'Steinf-Gr'}, 'locatie': ('52.123439', '7.376031')}
+{'namen': {'Lang': 'Stendal', 'Middel': 'Stendal', 'Kort': 'Stendal'}, 'locatie': ('52.594723', '11.854412')}
+{'namen': {'Lang': 'Stuttgart Hbf', 'Middel': 'Stuttgart Hbf', 'Kort': 'Stuttgart'}, 'locatie': ('48.784084', '9.181635')}
+{'namen': {'Lang': 'Susteren', 'Middel': 'Susteren', 'Kort': 'Susteren'}, 'locatie': ('51.0613899230957', '5.86305570602417')}
+{'namen': {'Lang': 'Swalmen', 'Middel': 'Swalmen', 'Kort': 'Swalmen'}, 'locatie': ('51.23582', '6.03228')}
+{'namen': {'Lang': 'Tantow', 'Middel': 'Tantow', 'Kort': 'Tantow'}, 'locatie': ('53.26928', '14.34793')}
+{'namen': {'Lang': 'Tegelen', 'Middel': 'Tegelen', 'Kort': 'Tegelen'}, 'locatie': ('51.33894', '6.14253')}
+{'namen': {'Lang': 'Terborg', 'Middel': 'Terborg', 'Kort': 'Terborg'}, 'locatie': ('51.9224549', '6.3642466')}
+{'namen': {'Lang': 'Tiel', 'Middel': 'Tiel', 'Kort': 'Tiel'}, 'locatie': ('51.8894462585449', '5.42222213745117')}
+{'namen': {'Lang': 'Tiel Passewaaij', 'Middel': 'Tiel Passewaaij', 'Kort': 'Passewaaij'}, 'locatie': ('51.8738899230957', '5.39222240447998')}
+{'namen': {'Lang': 'Tilburg', 'Middel': 'Tilburg', 'Kort': 'Tilburg'}, 'locatie': ('51.5605545043945', '5.08361101150513')}
+{'namen': {'Lang': 'Tilburg Reeshof', 'Middel': 'Tilburg Reeshof', 'Kort': 'Reeshof'}, 'locatie': ('51.5736122131348', '4.99444437026978')}
+{'namen': {'Lang': 'Tilburg Universiteit', 'Middel': 'Tilburg Univers.', 'Kort': 'Tilburg U'}, 'locatie': ('51.564998626709', '5.05111122131348')}
+{'namen': {'Lang': 'Tongeren', 'Middel': 'Tongeren', 'Kort': 'Tongeren'}, 'locatie': ('50.784167', '5.473056')}
+{'namen': {'Lang': 'Twello', 'Middel': 'Twello', 'Kort': 'Twello'}, 'locatie': ('52.2377777099609', '6.09861087799072')}
+{'namen': {'Lang': 'Uitgeest', 'Middel': 'Uitgeest', 'Kort': 'Uitgeest'}, 'locatie': ('52.5216674804687', '4.70166683197022')}
+{'namen': {'Lang': 'Uithuizen', 'Middel': 'Uithuizen', 'Kort': 'Uithuizen'}, 'locatie': ('53.4099568', '6.6748869')}
+{'namen': {'Lang': 'Uithuizermeeden', 'Middel': 'Uithuizermeeden', 'Kort': 'Uithuizerm'}, 'locatie': ('53.4145845', '6.7202975')}
+{'namen': {'Lang': 'Ulm Hbf', 'Middel': 'Ulm Hbf', 'Kort': 'Ulm'}, 'locatie': ('48.399015', '9.982165')}
+{'namen': {'Lang': 'Unna', 'Middel': 'Unna', 'Kort': 'Unna'}, 'locatie': ('51.5385828', '7.6953056')}
+{'namen': {'Lang': 'Usquert', 'Middel': 'Usquert', 'Kort': 'Usquert'}, 'locatie': ('53.4014742', '6.6093776')}
+{'namen': {'Lang': 'Usti nad Labem', 'Middel': 'Usti nad Labem', 'Kort': 'Usti nad L'}, 'locatie': ('50.65956', '14.04473')}
+{'namen': {'Lang': 'Utrecht Centraal', 'Middel': 'Utrecht C.', 'Kort': 'Utrecht C'}, 'locatie': ('52.0888900756836', '5.11027765274048')}
+{'namen': {'Lang': 'Utrecht Leidsche Rijn', 'Middel': 'Leidsche Rijn', 'Kort': 'Leidsche R'}, 'locatie': ('52.09896', '5.06523')}
+{'namen': {'Lang': 'Utrecht Lunetten', 'Middel': 'Utrecht Lunetten', 'Kort': 'Lunetten'}, 'locatie': ('52.0655555725098', '5.14416646957397')}
+{'namen': {'Lang': 'Utrecht Maliebaan', 'Middel': 'Maliebaan', 'Kort': 'Maliebaan'}, 'locatie': ('52.087776184082', '5.13138866424561')}
+{'namen': {'Lang': 'Utrecht Overvecht', 'Middel': 'Overvecht', 'Kort': 'Overvecht'}, 'locatie': ('52.1100006103516', '5.12472200393677')}
+{'namen': {'Lang': 'Utrecht Terwijde', 'Middel': 'Utrecht Terwijde', 'Kort': 'Terwijde'}, 'locatie': ('52.1005554199219', '5.04166650772095')}
+{'namen': {'Lang': 'Utrecht Zuilen', 'Middel': 'Utrecht Zuilen', 'Kort': 'Zuilen'}, 'locatie': ('52.103055', '5.09')}
+{'namen': {'Lang': 'Valence TGV', 'Middel': 'Valence TGV', 'Kort': 'ValenceTGV'}, 'locatie': ('44.9278', '4.89321')}
+{'namen': {'Lang': 'Valkenburg', 'Middel': 'Valkenburg', 'Kort': 'Valkenburg'}, 'locatie': ('50.8697204589844', '5.83222198486328')}
+{'namen': {'Lang': 'Varsseveld', 'Middel': 'Varsseveld', 'Kort': 'Varsseveld'}, 'locatie': ('51.937257', '6.458839')}
+{'namen': {'Lang': 'Veendam', 'Middel': 'Veendam', 'Kort': 'Veendam'}, 'locatie': ('53.10324', '6.88475')}
+{'namen': {'Lang': 'Veenendaal Centrum', 'Middel': 'Veenendaal C.', 'Kort': 'Veenendl C'}, 'locatie': ('52.0200004577637', '5.54861116409302')}
+{'namen': {'Lang': 'Veenendaal West', 'Middel': 'Veenendaal West', 'Kort': 'Veenendl W'}, 'locatie': ('52.0280570983887', '5.53138875961304')}
+{'namen': {'Lang': 'Veenendaal-De Klomp', 'Middel': 'De Klomp', 'Kort': 'De Klomp'}, 'locatie': ('52.0458335876465', '5.57388877868652')}
+{'namen': {'Lang': 'Velp', 'Middel': 'Velp', 'Kort': 'Velp'}, 'locatie': ('51.9947204589844', '5.98027801513672')}
+{'namen': {'Lang': 'Venlo', 'Middel': 'Venlo', 'Kort': 'Venlo'}, 'locatie': ('51.3636093139648', '6.17277765274048')}
+{'namen': {'Lang': 'Venray', 'Middel': 'Venray', 'Kort': 'Venray'}, 'locatie': ('51.526568099007', '6.01417779922485')}
+{'namen': {'Lang': 'Vierlingsbeek', 'Middel': 'Vierlingsbeek', 'Kort': 'Vierlingsb'}, 'locatie': ('51.59193', '5.99714')}
+{'namen': {'Lang': 'Viersen', 'Middel': 'Viersen', 'Kort': 'Viersen'}, 'locatie': ('51.25516', '6.40388')}
+{'namen': {'Lang': 'Visé', 'Middel': 'Visé', 'Kort': 'Visé'}, 'locatie': ('50.73781', '5.69232')}
+{'namen': {'Lang': 'Vlaardingen Centrum', 'Middel': 'Vlaardingen C.', 'Kort': 'Vlaard C'}, 'locatie': ('51.9030570983887', '4.34416675567627')}
+{'namen': {'Lang': 'Vlaardingen Oost', 'Middel': 'Vlaardingen Oost', 'Kort': 'Vlaard O'}, 'locatie': ('51.9102783203125', '4.36166667938232')}
+{'namen': {'Lang': 'Vlaardingen West', 'Middel': 'Vlaardingen West', 'Kort': 'Vlaard W'}, 'locatie': ('51.904167175293', '4.31305551528931')}
+{'namen': {'Lang': 'Vleuten', 'Middel': 'Vleuten', 'Kort': 'Vleuten'}, 'locatie': ('52.1030540466309', '5.01083326339722')}
+{'namen': {'Lang': 'Vlissingen', 'Middel': 'Vlissingen', 'Kort': 'Vlissingen'}, 'locatie': ('51.4458351135254', '3.59527778625488')}
+{'namen': {'Lang': 'Vlissingen Souburg', 'Middel': 'Souburg', 'Kort': 'Souburg'}, 'locatie': ('51.4647216796875', '3.59527778625488')}
+{'namen': {'Lang': 'Voerendaal', 'Middel': 'Voerendaal', 'Kort': 'Voerendaal'}, 'locatie': ('50.8872222900391', '5.93027782440186')}
+{'namen': {'Lang': 'Voorburg', 'Middel': 'Voorburg', 'Kort': 'Voorburg'}, 'locatie': ('52.0666656494141', '4.3594446182251')}
+{'namen': {'Lang': 'Voorhout', 'Middel': 'Voorhout', 'Kort': 'Voorhout'}, 'locatie': ('52.2244453430176', '4.4844446182251')}
+{'namen': {'Lang': 'Voorschoten', 'Middel': 'Voorschoten', 'Kort': 'Voorschtn'}, 'locatie': ('52.1252784729004', '4.43249988555908')}
+{'namen': {'Lang': 'Voorst-Empe', 'Middel': 'Voorst-Empe', 'Kort': 'Voorst-E'}, 'locatie': ('52.1575012207031', '6.14361095428467')}
+{'namen': {'Lang': 'Vorden', 'Middel': 'Vorden', 'Kort': 'Vorden'}, 'locatie': ('52.1071949', '6.3170457')}
+{'namen': {'Lang': 'Vriezenveen', 'Middel': 'Vriezenveen', 'Kort': 'Vriezenvn'}, 'locatie': ('52.40203', '6.60041')}
+{'namen': {'Lang': 'Vroomshoop', 'Middel': 'Vroomshoop', 'Kort': 'Vroomshoop'}, 'locatie': ('52.4571921', '6.5696679')}
+{'namen': {'Lang': 'Vught', 'Middel': 'Vught', 'Kort': 'Vught'}, 'locatie': ('51.6555557250977', '5.29194450378418')}
+{'namen': {'Lang': 'Waddinxveen', 'Middel': 'Waddinxveen', 'Kort': 'Waddinxv'}, 'locatie': ('52.0441665649414', '4.6497220993042')}
+{'namen': {'Lang': 'Waddinxveen Noord', 'Middel': 'Waddinxveen N.', 'Kort': 'Waddinxv N'}, 'locatie': ('52.0550003051758', '4.64833354949951')}
+{'namen': {'Lang': 'Warffum', 'Middel': 'Warffum', 'Kort': 'Warffum'}, 'locatie': ('53.3908431', '6.5671364')}
+{'namen': {'Lang': 'Warszawa Centralna', 'Middel': 'Warszawa C.', 'Kort': 'Warszawa C'}, 'locatie': ('52.22886', '21.00323')}
+{'namen': {'Lang': 'Warszawa Wschodnia', 'Middel': 'Warszawa Wschodn', 'Kort': 'Warszawa W'}, 'locatie': ('52.25155', '21.05233')}
+{'namen': {'Lang': 'Weener', 'Middel': 'Weener', 'Kort': 'Weener'}, 'locatie': ('53.16311', '7.3442')}
+{'namen': {'Lang': 'Weert', 'Middel': 'Weert', 'Kort': 'Weert'}, 'locatie': ('51.2486114501953', '5.70361089706421')}
+{'namen': {'Lang': 'Weesp', 'Middel': 'Weesp', 'Kort': 'Weesp'}, 'locatie': ('52.3127784729004', '5.04305553436279')}
+{'namen': {'Lang': 'Wehl', 'Middel': 'Wehl', 'Kort': 'Wehl'}, 'locatie': ('51.9578065', '6.213844')}
+{'namen': {'Lang': 'Westervoort', 'Middel': 'Westervoort', 'Kort': 'Westervrt'}, 'locatie': ('51.96286', '5.9695')}
+{'namen': {'Lang': 'Wezep', 'Middel': 'Wezep', 'Kort': 'Wezep'}, 'locatie': ('52.4541664123535', '6.00250005722046')}
+{'namen': {'Lang': 'Wien Westbahnhof', 'Middel': 'Wien Westbf', 'Kort': 'Wien Westb'}, 'locatie': ('48.19687', '16.33727')}
+{'namen': {'Lang': 'Wierden', 'Middel': 'Wierden', 'Kort': 'Wierden'}, 'locatie': ('52.3613891601562', '6.59166669845581')}
+{'namen': {'Lang': 'Wijchen', 'Middel': 'Wijchen', 'Kort': 'Wijchen'}, 'locatie': ('51.8116683959961', '5.73083353042603')}
+{'namen': {'Lang': 'Wijhe', 'Middel': 'Wijhe', 'Kort': 'Wijhe'}, 'locatie': ('52.3902778625488', '6.1405553817749')}
+{'namen': {'Lang': 'Wildert', 'Middel': 'Wildert', 'Kort': 'Wildert'}, 'locatie': ('51.4277061', '4.4633962')}
+{'namen': {'Lang': 'Winschoten', 'Middel': 'Winschoten', 'Kort': 'Winschoten'}, 'locatie': ('53.1392377', '7.035101')}
+{'namen': {'Lang': 'Winsum', 'Middel': 'Winsum', 'Kort': 'Winsum'}, 'locatie': ('53.3300994', '6.5202905')}
+{'namen': {'Lang': 'Winterswijk', 'Middel': 'Winterswijk', 'Kort': 'Winterswk'}, 'locatie': ('51.9677307', '6.7155181')}
+{'namen': {'Lang': 'Winterswijk West', 'Middel': 'Winterswijk West', 'Kort': 'Wintersw W'}, 'locatie': ('51.97453', '6.70417')}
+{'namen': {'Lang': 'Woerden', 'Middel': 'Woerden', 'Kort': 'Woerden'}, 'locatie': ('52.0849990844727', '4.89361095428467')}
+{'namen': {'Lang': 'Wolfheze', 'Middel': 'Wolfheze', 'Kort': 'Wolfheze'}, 'locatie': ('52.0055541992188', '5.7936110496521')}
+{'namen': {'Lang': 'Wolfsburg', 'Middel': 'Wolfsburg', 'Kort': 'Wolfsburg'}, 'locatie': ('52.429492', '10.788195')}
+{'namen': {'Lang': 'Wolvega', 'Middel': 'Wolvega', 'Kort': 'Wolvega'}, 'locatie': ('52.8808326721191', '6.00361108779907')}
+{'namen': {'Lang': 'Workum', 'Middel': 'Workum', 'Kort': 'Workum'}, 'locatie': ('52.9724864', '5.4564285')}
+{'namen': {'Lang': 'Wormerveer', 'Middel': 'Wormerveer', 'Kort': 'Wormerveer'}, 'locatie': ('52.4891662597656', '4.79222202301025')}
+{'namen': {'Lang': 'Wuppertal Barmen', 'Middel': 'Wuppertal B', 'Kort': "Wup'tal B"}, 'locatie': ('51.267082', '7.195929')}
+{'namen': {'Lang': 'Wuppertal Hbf', 'Middel': 'Wuppertal Hbf', 'Kort': 'Wuppertal'}, 'locatie': ('51.25433', '7.14939')}
+{'namen': {'Lang': 'Wuppertal Oberbarmen', 'Middel': 'Wuppertal O', 'Kort': "Wup'tal O"}, 'locatie': ('51.273839', '7.221483')}
+{'namen': {'Lang': 'Wuppertal-Vohwinkel', 'Middel': 'Wupp-Vohwinkel', 'Kort': 'Wupp-Vohw'}, 'locatie': ('51.23351', '7.07237')}
+{'namen': {'Lang': 'Wörgl', 'Middel': 'Wörgl', 'Kort': 'Wörgl'}, 'locatie': ('47.49178', '12.06059')}
+{'namen': {'Lang': 'Würzburg Hbf', 'Middel': 'Würzburg Hbf', 'Kort': 'Würzburg'}, 'locatie': ('49.80179', '9.9358')}
+{'namen': {'Lang': 'Zaandam', 'Middel': 'Zaandam', 'Kort': 'Zaandam'}, 'locatie': ('52.4388885498047', '4.81361103057861')}
+{'namen': {'Lang': 'Zaandam Kogerveld', 'Middel': 'Kogerveld', 'Kort': 'Kogerveld'}, 'locatie': ('52.4566650390625', '4.82027769088745')}
+{'namen': {'Lang': 'Zaltbommel', 'Middel': 'Zaltbommel', 'Kort': 'Zaltbommel'}, 'locatie': ('51.8088874816895', '5.26333332061768')}
+{'namen': {'Lang': 'Zandvoort aan Zee', 'Middel': 'Zandvoort a Zee', 'Kort': 'Zandvoort'}, 'locatie': ('52.3752784729004', '4.53277778625488')}
+{'namen': {'Lang': 'Zell am See', 'Middel': 'Zell am See', 'Kort': 'Zell am S.'}, 'locatie': ('47.32053', '12.79658')}
+{'namen': {'Lang': 'Zetten-Andelst', 'Middel': 'Zetten-Andelst', 'Kort': 'Zetten-A'}, 'locatie': ('51.920056', '5.7228408')}
+{'namen': {'Lang': 'Zevenaar', 'Middel': 'Zevenaar', 'Kort': 'Zevenaar'}, 'locatie': ('51.9230537414551', '6.07194423675537')}
+{'namen': {'Lang': 'Zevenbergen', 'Middel': 'Zevenbergen', 'Kort': 'Zevenbergn'}, 'locatie': ('51.64042', '4.60904')}
+{'namen': {'Lang': 'Zoetermeer', 'Middel': 'Zoetermeer', 'Kort': 'Zoetermeer'}, 'locatie': ('52.0475006103516', '4.47722244262695')}
+{'namen': {'Lang': 'Zoetermeer Oost', 'Middel': 'Zoetermeer Oost', 'Kort': "Z'meer O"}, 'locatie': ('52.0463905334473', '4.49277782440186')}
+{'namen': {'Lang': 'Zuidbroek', 'Middel': 'Zuidbroek', 'Kort': 'Zuidbroek'}, 'locatie': ('53.1596122800056', '6.8679141998291')}
+{'namen': {'Lang': 'Zuidhorn', 'Middel': 'Zuidhorn', 'Kort': 'Zuidhorn'}, 'locatie': ('53.2486292', '6.4062361')}
+{'namen': {'Lang': 'Zutphen', 'Middel': 'Zutphen', 'Kort': 'Zutphen'}, 'locatie': ('52.1452789306641', '6.19416666030884')}
+{'namen': {'Lang': 'Zwijndrecht', 'Middel': 'Zwijndrecht', 'Kort': 'Zwijndrcht'}, 'locatie': ('51.814998626709', '4.64166688919067')}
+{'namen': {'Lang': 'Zwijndrecht (Belgie)', 'Middel': 'Zwijndrecht (B)', 'Kort': 'Zwijndrech'}, 'locatie': ('51.214167', '4.33')}
+{'namen': {'Lang': 'Zwolle', 'Middel': 'Zwolle', 'Kort': 'Zwolle'}, 'locatie': ('52.5047225952148', '6.09194421768188')}
+{'namen': {'Lang': 'Zürich HB', 'Middel': 'Zürich HB', 'Kort': 'Zürich HB'}, 'locatie': ('47.37819', '8.5392')}
+{'namen': {'Lang': 'Ötztal', 'Middel': 'Ötztal', 'Kort': 'Ötztal'}, 'locatie': ('47.23848', '10.85911')}
